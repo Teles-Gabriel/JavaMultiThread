@@ -8,8 +8,16 @@ import java.text.DecimalFormat;
 public class ProcessadorTemperaturas {
 
     public static void main(String[] args) throws InterruptedException {
+        // Input do numero de threads do experimento
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Digite o numero de threads: ");
+        int numThreads = scanner.nextInt();
+        scanner.close();
+
         int numRodadas = 10; // Número de rodadas
-        int numThreads = 320; // Ajuste este valor conforme a versão
+
+        //Caso você queira rodar o experimento sem o input, descomenta essa linha e apaga a parte do input.
+        //int numThreads = 320;
         List<Long> temposExecucao = new ArrayList<>(); // Lista para armazenar os tempos de cada rodada
 
         // Executar o experimento por 10 rodadas
@@ -28,7 +36,7 @@ public class ProcessadorTemperaturas {
             }
 
             // Divisão dos arquivos entre as threads
-            int tamanhoGrupo = Math.max(1, listaArquivos.size() / numThreads); // Evitar divisão por zero, garante que sempre tenha ao menos 1 arquivo por thread
+            int tamanhoGrupo = Math.max(1, listaArquivos.size() / numThreads); // Evita divisão por zero, garante que sempre tenha ao menos 1 arquivo por thread
             for (int i = 0; i < numThreads; i++) {
                 int inicio = i * tamanhoGrupo;
                 int fim = (i == numThreads - 1) ? listaArquivos.size() : Math.min(inicio + tamanhoGrupo, listaArquivos.size());
@@ -43,10 +51,10 @@ public class ProcessadorTemperaturas {
             executor.shutdown();
             executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
 
-            // Medir o tempo de fim da rodada
+            // Medir o tempo do fim da rodada e armazenar
             long fimTempo = System.currentTimeMillis();
             long tempoRodada = fimTempo - inicioTempo;
-            temposExecucao.add(tempoRodada); // Armazenar o tempo da rodada
+            temposExecucao.add(tempoRodada);
 
             System.out.println("Tempo de execucao da rodada " + rodada + ": " + tempoRodada + " ms");
         }
@@ -60,7 +68,6 @@ public class ProcessadorTemperaturas {
 
         System.out.println("Tempo medio de execucao: " + tempoMedio + " ms");
 
-        // Salvar os tempos de cada rodada e o tempo médio em um arquivo de texto
         salvarTemposExecucao(temposExecucao, tempoMedio, "versao_experimento.txt");
     }
 
@@ -69,9 +76,8 @@ public class ProcessadorTemperaturas {
         List<File> arquivosCSV = new ArrayList<>();
         File pasta = new File(diretorio);
 
-        // Verificar se o diretório existe e se é uma pasta
         if (pasta.exists() && pasta.isDirectory()) {
-            File[] arquivos = pasta.listFiles((dir, nome) -> nome.toLowerCase().endsWith(".csv")); // Filtra apenas arquivos .csv
+            File[] arquivos = pasta.listFiles((dir, nome) -> nome.toLowerCase().endsWith(".csv")); // Filtra apeans arquivos .csv
             if (arquivos != null) {
                 arquivosCSV.addAll(Arrays.asList(arquivos)); // Adiciona todos os arquivos CSV à lista
             }
@@ -85,10 +91,9 @@ public class ProcessadorTemperaturas {
     // Método para salvar os tempos de execução em um arquivo de texto
     public static void salvarTemposExecucao(List<Long> tempos, long tempoMedio, String nomeArquivo) {
         try {
-            // Criar o arquivo de saída
+            // Criar o arquivo de saída e escrever os tempos no arquivo de texto
             File arquivoSaida = new File(nomeArquivo);
 
-            // Escrever os tempos no arquivo de texto
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(arquivoSaida))) {
                 for (int i = 0; i < tempos.size(); i++) {
                     writer.write("Tempo da rodada " + (i + 1) + ": " + tempos.get(i) + " ms\n");
@@ -106,7 +111,7 @@ public class ProcessadorTemperaturas {
 
 class TarefaProcessamento implements Runnable {
     private List<File> arquivos;
-    private DecimalFormat df = new DecimalFormat("#.##"); // Para formatar as saídas numéricas com duas casas decimais
+    private DecimalFormat df = new DecimalFormat("#.###"); // Para formatar as saídas numéricas com 3 casas decimais
 
     public TarefaProcessamento(List<File> arquivos) {
         this.arquivos = arquivos;
@@ -131,10 +136,10 @@ class TarefaProcessamento implements Runnable {
 
         try (BufferedReader br = new BufferedReader(new FileReader(arquivo))) {
             String linha;
-            boolean primeiraLinha = true;  // Para ignorar o cabeçalho
+            boolean primeiraLinha = true;
 
             while ((linha = br.readLine()) != null) {
-                // Ignorar o cabeçalho (primeira linha)
+                // Ignorar a primeira linha que é o cabeçalho
                 if (primeiraLinha) {
                     primeiraLinha = false;
                     continue;
@@ -143,7 +148,7 @@ class TarefaProcessamento implements Runnable {
                 // Separar os valores por vírgula
                 String[] valores = linha.split(",");
 
-                // Certificar-se de que a linha tem pelo menos 6 colunas (conforme o formato esperado)
+                // Certificar-se de que a linha tem pelo menos 6 colunas (conforme o formato que está no csv)
                 if (valores.length < 6) {
                     System.out.println("Linha invalida no arquivo: " + arquivo.getName() + " -> " + linha);
                     continue;
