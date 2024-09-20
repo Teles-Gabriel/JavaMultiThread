@@ -1,0 +1,61 @@
+Arquivo: US__Youngstown.csv
+Mes: 1
+Temperatura Media: -2,86
+Temperatura Maxima: 16
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,6
+Temperatura Maxima: 18
+Temperatura Minima: -20,06
+------------------------------------
+Mes: 3
+Temperatura Media: 2,84
+Temperatura Maxima: 23
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,3
+Temperatura Maxima: 24,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,17
+Temperatura Maxima: 27
+Temperatura Minima: 1,06
+------------------------------------
+Mes: 6
+Temperatura Media: 19,27
+Temperatura Maxima: 29,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,81
+Temperatura Maxima: 30,39
+Temperatura Minima: 13,44
+------------------------------------
+Mes: 8
+Temperatura Media: 20,6
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,09
+Temperatura Maxima: 27,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,24
+Temperatura Maxima: 24,22
+Temperatura Minima: -0,11
+------------------------------------
+Mes: 11
+Temperatura Media: 5,14
+Temperatura Maxima: 19,56
+Temperatura Minima: -9,22
+------------------------------------
+Mes: 12
+Temperatura Media: -0,34
+Temperatura Maxima: 16,06
+Temperatura Minima: -72,78
+------------------------------------

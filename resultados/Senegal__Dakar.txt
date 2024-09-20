@@ -1,0 +1,61 @@
+Arquivo: Senegal__Dakar.csv
+Mes: 1
+Temperatura Media: 21,43
+Temperatura Maxima: 27,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 21,12
+Temperatura Maxima: 29,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 21,33
+Temperatura Maxima: 27,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 21,41
+Temperatura Maxima: 28,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 22,24
+Temperatura Maxima: 28,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 25,2
+Temperatura Maxima: 28,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 26,9
+Temperatura Maxima: 29,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 27,34
+Temperatura Maxima: 29,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,33
+Temperatura Maxima: 29,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 28
+Temperatura Maxima: 30,56
+Temperatura Minima: 24,56
+------------------------------------
+Mes: 11
+Temperatura Media: 25,66
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 22,71
+Temperatura Maxima: 28,39
+Temperatura Minima: -72,78
+------------------------------------

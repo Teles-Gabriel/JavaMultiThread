@@ -1,0 +1,61 @@
+Arquivo: Laos__Vientiane.csv
+Mes: 1
+Temperatura Media: 23,07
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 24,95
+Temperatura Maxima: 31,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 27,36
+Temperatura Maxima: 34,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 29,13
+Temperatura Maxima: 36,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 28,42
+Temperatura Maxima: 36,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 27,96
+Temperatura Maxima: 35,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,63
+Temperatura Maxima: 33,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 27,39
+Temperatura Maxima: 32,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,65
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 27,74
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 25,94
+Temperatura Maxima: 30,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 22,58
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------

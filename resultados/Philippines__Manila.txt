@@ -1,0 +1,61 @@
+Arquivo: Philippines__Manila.csv
+Mes: 1
+Temperatura Media: 25,94
+Temperatura Maxima: 29,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 26,5
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 27,94
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 29,35
+Temperatura Maxima: 31,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 29
+Temperatura Maxima: 33,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 28,33
+Temperatura Maxima: 32,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,92
+Temperatura Maxima: 33,28
+Temperatura Minima: 24,28
+------------------------------------
+Mes: 8
+Temperatura Media: 27,32
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,01
+Temperatura Maxima: 31,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 27,77
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 27,19
+Temperatura Maxima: 30,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 25,96
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: US__Nashville.csv
+Mes: 1
+Temperatura Media: 4,02
+Temperatura Maxima: 20,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6,11
+Temperatura Maxima: 21,33
+Temperatura Minima: -15,33
+------------------------------------
+Mes: 3
+Temperatura Media: 10,61
+Temperatura Maxima: 24,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 15,75
+Temperatura Maxima: 26,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 20,35
+Temperatura Maxima: 29,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,08
+Temperatura Maxima: 34
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 26,47
+Temperatura Maxima: 34,5
+Temperatura Minima: 19,5
+------------------------------------
+Mes: 8
+Temperatura Media: 25,85
+Temperatura Maxima: 33,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 22,52
+Temperatura Maxima: 30,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 16,29
+Temperatura Maxima: 28,56
+Temperatura Minima: 4,61
+------------------------------------
+Mes: 11
+Temperatura Media: 9,98
+Temperatura Maxima: 22,83
+Temperatura Minima: -3,44
+------------------------------------
+Mes: 12
+Temperatura Media: 5,42
+Temperatura Maxima: 21,83
+Temperatura Minima: -72,78
+------------------------------------

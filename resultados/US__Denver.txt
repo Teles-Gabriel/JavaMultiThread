@@ -1,0 +1,61 @@
+Arquivo: US__Denver.csv
+Mes: 1
+Temperatura Media: -3,29
+Temperatura Maxima: 12,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -2,59
+Temperatura Maxima: 16,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 4,92
+Temperatura Maxima: 18,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,44
+Temperatura Maxima: 20,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,54
+Temperatura Maxima: 26,28
+Temperatura Minima: -1
+------------------------------------
+Mes: 6
+Temperatura Media: 19,36
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,56
+Temperatura Maxima: 30
+Temperatura Minima: 11,61
+------------------------------------
+Mes: 8
+Temperatura Media: 22,06
+Temperatura Maxima: 30,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,56
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,34
+Temperatura Maxima: 23
+Temperatura Minima: -12,67
+------------------------------------
+Mes: 11
+Temperatura Media: 4,23
+Temperatura Maxima: 18,06
+Temperatura Minima: -18,56
+------------------------------------
+Mes: 12
+Temperatura Media: -1,12
+Temperatura Maxima: 13,94
+Temperatura Minima: -72,78
+------------------------------------

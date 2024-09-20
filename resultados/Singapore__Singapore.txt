@@ -1,0 +1,61 @@
+Arquivo: Singapore__Singapore.csv
+Mes: 1
+Temperatura Media: 26,44
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 27,28
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 27,85
+Temperatura Maxima: 30,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 28,09
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 28,13
+Temperatura Maxima: 31,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 28,09
+Temperatura Maxima: 30,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,27
+Temperatura Maxima: 30,39
+Temperatura Minima: 24,83
+------------------------------------
+Mes: 8
+Temperatura Media: 27,99
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,87
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 27,98
+Temperatura Maxima: 30,39
+Temperatura Minima: 24,83
+------------------------------------
+Mes: 11
+Temperatura Media: 26,87
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 26,18
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------

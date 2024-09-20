@@ -1,0 +1,61 @@
+Arquivo: US__Las_Vegas.csv
+Mes: 1
+Temperatura Media: 9,47
+Temperatura Maxima: 17,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 11,76
+Temperatura Maxima: 20,78
+Temperatura Minima: 1
+------------------------------------
+Mes: 3
+Temperatura Media: 15,98
+Temperatura Maxima: 27,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 19,8
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,39
+Temperatura Maxima: 37,11
+Temperatura Minima: 12,72
+------------------------------------
+Mes: 6
+Temperatura Media: 30,44
+Temperatura Maxima: 41,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 34,32
+Temperatura Maxima: 40,83
+Temperatura Minima: 24,78
+------------------------------------
+Mes: 8
+Temperatura Media: 33,1
+Temperatura Maxima: 38,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 28,61
+Temperatura Maxima: 35,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 21,19
+Temperatura Maxima: 31,28
+Temperatura Minima: 7,94
+------------------------------------
+Mes: 11
+Temperatura Media: 14,18
+Temperatura Maxima: 22,67
+Temperatura Minima: 2,78
+------------------------------------
+Mes: 12
+Temperatura Media: 8,48
+Temperatura Maxima: 18,83
+Temperatura Minima: -72,78
+------------------------------------

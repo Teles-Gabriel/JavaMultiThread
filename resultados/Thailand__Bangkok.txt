@@ -1,0 +1,61 @@
+Arquivo: Thailand__Bangkok.csv
+Mes: 1
+Temperatura Media: 21,08
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 22,62
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 23,65
+Temperatura Maxima: 32,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 24,23
+Temperatura Maxima: 33,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 23,81
+Temperatura Maxima: 33,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 22,83
+Temperatura Maxima: 33,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,3
+Temperatura Maxima: 32,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 23,01
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 22,45
+Temperatura Maxima: 31,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 22,14
+Temperatura Maxima: 32,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 20,83
+Temperatura Maxima: 31,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 19,56
+Temperatura Maxima: 31,78
+Temperatura Minima: -72,78
+------------------------------------

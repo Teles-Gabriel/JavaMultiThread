@@ -1,0 +1,61 @@
+Arquivo: US__Waco.csv
+Mes: 1
+Temperatura Media: 8,64
+Temperatura Maxima: 22,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 10,91
+Temperatura Maxima: 22,89
+Temperatura Minima: -7,06
+------------------------------------
+Mes: 3
+Temperatura Media: 14,69
+Temperatura Maxima: 25,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 18,58
+Temperatura Maxima: 28,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 23,61
+Temperatura Maxima: 30,33
+Temperatura Minima: 9,89
+------------------------------------
+Mes: 6
+Temperatura Media: 26,48
+Temperatura Maxima: 34,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,6
+Temperatura Maxima: 35,11
+Temperatura Minima: 21
+------------------------------------
+Mes: 8
+Temperatura Media: 29,58
+Temperatura Maxima: 35,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 25,91
+Temperatura Maxima: 33,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 20,28
+Temperatura Maxima: 29,89
+Temperatura Minima: 4,67
+------------------------------------
+Mes: 11
+Temperatura Media: 14,21
+Temperatura Maxima: 25,56
+Temperatura Minima: -2,89
+------------------------------------
+Mes: 12
+Temperatura Media: 9,05
+Temperatura Maxima: 22,56
+Temperatura Minima: -72,78
+------------------------------------

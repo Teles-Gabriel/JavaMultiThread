@@ -1,0 +1,61 @@
+Arquivo: US__Duluth.csv
+Mes: 1
+Temperatura Media: -11,26
+Temperatura Maxima: 5,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -9,19
+Temperatura Maxima: 6,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -2,94
+Temperatura Maxima: 15,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 3,74
+Temperatura Maxima: 18,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 10,48
+Temperatura Maxima: 25,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 15,5
+Temperatura Maxima: 28,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 19,46
+Temperatura Maxima: 29,78
+Temperatura Minima: 10,56
+------------------------------------
+Mes: 8
+Temperatura Media: 18,32
+Temperatura Maxima: 28,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 13,66
+Temperatura Maxima: 25,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 6,68
+Temperatura Maxima: 22,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -1,07
+Temperatura Maxima: 13,61
+Temperatura Minima: -17,61
+------------------------------------
+Mes: 12
+Temperatura Media: -8,51
+Temperatura Maxima: 4,83
+Temperatura Minima: -72,78
+------------------------------------

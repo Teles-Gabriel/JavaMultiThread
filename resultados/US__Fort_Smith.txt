@@ -1,0 +1,61 @@
+Arquivo: US__Fort_Smith.csv
+Mes: 1
+Temperatura Media: 4,35
+Temperatura Maxima: 21,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6,96
+Temperatura Maxima: 22
+Temperatura Minima: -11,17
+------------------------------------
+Mes: 3
+Temperatura Media: 11,72
+Temperatura Maxima: 24,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,08
+Temperatura Maxima: 27,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 21,07
+Temperatura Maxima: 29,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,9
+Temperatura Maxima: 34,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,09
+Temperatura Maxima: 34,89
+Temperatura Minima: 18,44
+------------------------------------
+Mes: 8
+Temperatura Media: 27,5
+Temperatura Maxima: 38,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 23,52
+Temperatura Maxima: 32,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 17,2
+Temperatura Maxima: 26,83
+Temperatura Minima: 4,17
+------------------------------------
+Mes: 11
+Temperatura Media: 10,83
+Temperatura Maxima: 25,28
+Temperatura Minima: -3,11
+------------------------------------
+Mes: 12
+Temperatura Media: 5,3
+Temperatura Maxima: 21,72
+Temperatura Minima: -72,78
+------------------------------------

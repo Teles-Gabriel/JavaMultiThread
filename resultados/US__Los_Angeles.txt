@@ -1,0 +1,61 @@
+Arquivo: US__Los_Angeles.csv
+Mes: 1
+Temperatura Media: 13,95
+Temperatura Maxima: 22,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 14,1
+Temperatura Maxima: 23,11
+Temperatura Minima: 8,72
+------------------------------------
+Mes: 3
+Temperatura Media: 14,69
+Temperatura Maxima: 23,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 15,58
+Temperatura Maxima: 27,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,1
+Temperatura Maxima: 28,17
+Temperatura Minima: 12,33
+------------------------------------
+Mes: 6
+Temperatura Media: 18,02
+Temperatura Maxima: 26,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 20,35
+Temperatura Maxima: 27,83
+Temperatura Minima: 15,72
+------------------------------------
+Mes: 8
+Temperatura Media: 20,6
+Temperatura Maxima: 26,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,43
+Temperatura Maxima: 29,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 18,98
+Temperatura Maxima: 30
+Temperatura Minima: 11,94
+------------------------------------
+Mes: 11
+Temperatura Media: 16,58
+Temperatura Maxima: 26,78
+Temperatura Minima: 9,44
+------------------------------------
+Mes: 12
+Temperatura Media: 13,62
+Temperatura Maxima: 22,28
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Central_African_Republic__Bangui.csv
+Mes: 1
+Temperatura Media: 14,71
+Temperatura Maxima: 31,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 23,06
+Temperatura Maxima: 32,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 22,27
+Temperatura Maxima: 34,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 19,73
+Temperatura Maxima: 32,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,41
+Temperatura Maxima: 32,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 20,57
+Temperatura Maxima: 30,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,51
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 20,06
+Temperatura Maxima: 28,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,26
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 18,35
+Temperatura Maxima: 29,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 15,92
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 16,86
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------

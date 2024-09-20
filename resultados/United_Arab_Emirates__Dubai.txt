@@ -1,0 +1,61 @@
+Arquivo: United_Arab_Emirates__Dubai.csv
+Mes: 1
+Temperatura Media: 19,74
+Temperatura Maxima: 25,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 21,25
+Temperatura Maxima: 31,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 23,77
+Temperatura Maxima: 32,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 27,44
+Temperatura Maxima: 34,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 31,49
+Temperatura Maxima: 38,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 33,65
+Temperatura Maxima: 39,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 36,05
+Temperatura Maxima: 41,94
+Temperatura Minima: 28,11
+------------------------------------
+Mes: 8
+Temperatura Media: 36
+Temperatura Maxima: 41,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 33,34
+Temperatura Maxima: 39,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 30,62
+Temperatura Maxima: 34,61
+Temperatura Minima: 23,06
+------------------------------------
+Mes: 11
+Temperatura Media: 25,51
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 21,32
+Temperatura Maxima: 27,5
+Temperatura Minima: -72,78
+------------------------------------

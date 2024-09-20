@@ -1,0 +1,61 @@
+Arquivo: Belgium__Brussels.csv
+Mes: 1
+Temperatura Media: 3,46
+Temperatura Maxima: 12,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 4,38
+Temperatura Maxima: 14,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,74
+Temperatura Maxima: 16
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,96
+Temperatura Maxima: 20,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,06
+Temperatura Maxima: 24,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,04
+Temperatura Maxima: 26,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,47
+Temperatura Maxima: 29,67
+Temperatura Minima: 12,44
+------------------------------------
+Mes: 8
+Temperatura Media: 18,16
+Temperatura Maxima: 27,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,02
+Temperatura Maxima: 25
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,53
+Temperatura Maxima: 19,39
+Temperatura Minima: 0,72
+------------------------------------
+Mes: 11
+Temperatura Media: 6,81
+Temperatura Maxima: 17,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 3,7
+Temperatura Maxima: 13,94
+Temperatura Minima: -72,78
+------------------------------------

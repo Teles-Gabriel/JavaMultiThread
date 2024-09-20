@@ -1,0 +1,61 @@
+Arquivo: Canada__Vancouver.csv
+Mes: 1
+Temperatura Media: 4,16
+Temperatura Maxima: 12
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 4,99
+Temperatura Maxima: 11,28
+Temperatura Minima: -3,61
+------------------------------------
+Mes: 3
+Temperatura Media: 6,74
+Temperatura Maxima: 12,67
+Temperatura Minima: -1,94
+------------------------------------
+Mes: 4
+Temperatura Media: 9,18
+Temperatura Maxima: 16
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,72
+Temperatura Maxima: 19,89
+Temperatura Minima: 6,39
+------------------------------------
+Mes: 6
+Temperatura Media: 14,99
+Temperatura Maxima: 22,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,15
+Temperatura Maxima: 28,39
+Temperatura Minima: 12,11
+------------------------------------
+Mes: 8
+Temperatura Media: 17,78
+Temperatura Maxima: 23,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,99
+Temperatura Maxima: 20,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,41
+Temperatura Maxima: 16,39
+Temperatura Minima: 2,11
+------------------------------------
+Mes: 11
+Temperatura Media: 5,74
+Temperatura Maxima: 13,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 2,92
+Temperatura Maxima: 12,17
+Temperatura Minima: -72,78
+------------------------------------

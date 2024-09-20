@@ -1,0 +1,61 @@
+Arquivo: US__El_Paso.csv
+Mes: 1
+Temperatura Media: 7,95
+Temperatura Maxima: 18,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 11
+Temperatura Maxima: 20,89
+Temperatura Minima: -13,11
+------------------------------------
+Mes: 3
+Temperatura Media: 15,05
+Temperatura Maxima: 25,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 19,22
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 24,47
+Temperatura Maxima: 32,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 28,62
+Temperatura Maxima: 36,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,75
+Temperatura Maxima: 35,17
+Temperatura Minima: 20,44
+------------------------------------
+Mes: 8
+Temperatura Media: 27,71
+Temperatura Maxima: 34,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,84
+Temperatura Maxima: 31,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 19,4
+Temperatura Maxima: 27,22
+Temperatura Minima: 4,39
+------------------------------------
+Mes: 11
+Temperatura Media: 12,64
+Temperatura Maxima: 22,39
+Temperatura Minima: -0,56
+------------------------------------
+Mes: 12
+Temperatura Media: 7,33
+Temperatura Maxima: 17,33
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Bahrain__Manama.csv
+Mes: 1
+Temperatura Media: 17,32
+Temperatura Maxima: 23,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 18,51
+Temperatura Maxima: 25,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 21,56
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 26
+Temperatura Maxima: 34,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 30,82
+Temperatura Maxima: 36,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 33,67
+Temperatura Maxima: 39,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 35,42
+Temperatura Maxima: 38,78
+Temperatura Minima: 31,78
+------------------------------------
+Mes: 8
+Temperatura Media: 35,07
+Temperatura Maxima: 38,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 33,13
+Temperatura Maxima: 37,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 30,07
+Temperatura Maxima: 34,56
+Temperatura Minima: 25,11
+------------------------------------
+Mes: 11
+Temperatura Media: 24,06
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 19,04
+Temperatura Maxima: 25,78
+Temperatura Minima: -72,78
+------------------------------------

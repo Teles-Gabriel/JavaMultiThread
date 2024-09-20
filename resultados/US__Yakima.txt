@@ -1,0 +1,61 @@
+Arquivo: US__Yakima.csv
+Mes: 1
+Temperatura Media: -0,26
+Temperatura Maxima: 12,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 2,29
+Temperatura Maxima: 15,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,48
+Temperatura Maxima: 17,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 10,52
+Temperatura Maxima: 21,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,59
+Temperatura Maxima: 28,78
+Temperatura Minima: 4,39
+------------------------------------
+Mes: 6
+Temperatura Media: 18,86
+Temperatura Maxima: 35,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,76
+Temperatura Maxima: 36,5
+Temperatura Minima: 12,22
+------------------------------------
+Mes: 8
+Temperatura Media: 22,31
+Temperatura Maxima: 35,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 16,71
+Temperatura Maxima: 26,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 9,76
+Temperatura Maxima: 22,06
+Temperatura Minima: -6,56
+------------------------------------
+Mes: 11
+Temperatura Media: 3,49
+Temperatura Maxima: 17,22
+Temperatura Minima: -16,28
+------------------------------------
+Mes: 12
+Temperatura Media: -1,29
+Temperatura Maxima: 12,44
+Temperatura Minima: -72,78
+------------------------------------

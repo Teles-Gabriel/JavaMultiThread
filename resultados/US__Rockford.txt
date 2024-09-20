@@ -1,0 +1,61 @@
+Arquivo: US__Rockford.csv
+Mes: 1
+Temperatura Media: -5,48
+Temperatura Maxima: 10,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -3,46
+Temperatura Maxima: 14,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 2,68
+Temperatura Maxima: 22,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,35
+Temperatura Maxima: 23,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,16
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,94
+Temperatura Maxima: 29,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,18
+Temperatura Maxima: 32,56
+Temperatura Minima: 15,22
+------------------------------------
+Mes: 8
+Temperatura Media: 21,89
+Temperatura Maxima: 31,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,74
+Temperatura Maxima: 29,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,11
+Temperatura Maxima: 24,83
+Temperatura Minima: -1
+------------------------------------
+Mes: 11
+Temperatura Media: 3,72
+Temperatura Maxima: 18,61
+Temperatura Minima: -12,28
+------------------------------------
+Mes: 12
+Temperatura Media: -2,93
+Temperatura Maxima: 15,33
+Temperatura Minima: -72,78
+------------------------------------

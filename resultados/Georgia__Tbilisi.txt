@@ -1,0 +1,61 @@
+Arquivo: Georgia__Tbilisi.csv
+Mes: 1
+Temperatura Media: 1,44
+Temperatura Maxima: 9,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 3,91
+Temperatura Maxima: 11,83
+Temperatura Minima: -4,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,76
+Temperatura Maxima: 18
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 10,83
+Temperatura Maxima: 24,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 10,05
+Temperatura Maxima: 26,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 12,65
+Temperatura Maxima: 29,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 16,81
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 17,42
+Temperatura Maxima: 31,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 12,84
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 6,54
+Temperatura Maxima: 22,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 1,42
+Temperatura Maxima: 16,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -4,25
+Temperatura Maxima: 11,5
+Temperatura Minima: -72,78
+------------------------------------

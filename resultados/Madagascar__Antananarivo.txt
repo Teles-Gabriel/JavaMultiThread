@@ -1,0 +1,61 @@
+Arquivo: Madagascar__Antananarivo.csv
+Mes: 1
+Temperatura Media: 18,97
+Temperatura Maxima: 24,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 20,18
+Temperatura Maxima: 24,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 20,46
+Temperatura Maxima: 24,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 19,2
+Temperatura Maxima: 24,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,16
+Temperatura Maxima: 22,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 13,23
+Temperatura Maxima: 20,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 13,12
+Temperatura Maxima: 19,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 14,57
+Temperatura Maxima: 20,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 16,56
+Temperatura Maxima: 23,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 17,34
+Temperatura Maxima: 24,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 19,56
+Temperatura Maxima: 24,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 19,13
+Temperatura Maxima: 25,83
+Temperatura Minima: -72,78
+------------------------------------

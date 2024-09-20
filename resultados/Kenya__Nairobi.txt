@@ -1,0 +1,61 @@
+Arquivo: Kenya__Nairobi.csv
+Mes: 1
+Temperatura Media: -2,7
+Temperatura Maxima: 27,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -0,98
+Temperatura Maxima: 27,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 0,2
+Temperatura Maxima: 26,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -1,75
+Temperatura Maxima: 25,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -7,52
+Temperatura Maxima: 24,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -2,34
+Temperatura Maxima: 23,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -6,37
+Temperatura Maxima: 23,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -6,95
+Temperatura Maxima: 23,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -4,33
+Temperatura Maxima: 25,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -7,5
+Temperatura Maxima: 28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -4,97
+Temperatura Maxima: 25,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -11,52
+Temperatura Maxima: 24,83
+Temperatura Minima: -72,78
+------------------------------------

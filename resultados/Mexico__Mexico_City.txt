@@ -1,0 +1,61 @@
+Arquivo: Mexico__Mexico_City.csv
+Mes: 1
+Temperatura Media: 13,6
+Temperatura Maxima: 18,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 15,52
+Temperatura Maxima: 22,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 17,36
+Temperatura Maxima: 24,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 19,17
+Temperatura Maxima: 24,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,05
+Temperatura Maxima: 25
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 18,16
+Temperatura Maxima: 24,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 17,72
+Temperatura Maxima: 22,17
+Temperatura Minima: 15
+------------------------------------
+Mes: 8
+Temperatura Media: 17,59
+Temperatura Maxima: 20,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,03
+Temperatura Maxima: 23,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 16,64
+Temperatura Maxima: 22,5
+Temperatura Minima: 9,06
+------------------------------------
+Mes: 11
+Temperatura Media: 14,76
+Temperatura Maxima: 20,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 13,71
+Temperatura Maxima: 21,78
+Temperatura Minima: -72,78
+------------------------------------

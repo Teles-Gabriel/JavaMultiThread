@@ -1,0 +1,61 @@
+Arquivo: US__Albuquerque.csv
+Mes: 1
+Temperatura Media: 2,76
+Temperatura Maxima: 11,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 5,73
+Temperatura Maxima: 15,39
+Temperatura Minima: -16,11
+------------------------------------
+Mes: 3
+Temperatura Media: 9,66
+Temperatura Maxima: 20,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 13,52
+Temperatura Maxima: 27,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,15
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,34
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,88
+Temperatura Maxima: 31,89
+Temperatura Minima: 18,89
+------------------------------------
+Mes: 8
+Temperatura Media: 24,52
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,22
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 14,74
+Temperatura Maxima: 24,06
+Temperatura Minima: 0,39
+------------------------------------
+Mes: 11
+Temperatura Media: 7,94
+Temperatura Maxima: 17,5
+Temperatura Minima: -4,67
+------------------------------------
+Mes: 12
+Temperatura Media: 2,29
+Temperatura Maxima: 11,83
+Temperatura Minima: -72,78
+------------------------------------

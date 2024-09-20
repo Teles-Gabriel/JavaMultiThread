@@ -1,0 +1,61 @@
+Arquivo: US__Columbia.csv
+Mes: 1
+Temperatura Media: 7,67
+Temperatura Maxima: 21,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 9,66
+Temperatura Maxima: 23
+Temperatura Minima: -4,94
+------------------------------------
+Mes: 3
+Temperatura Media: 13,51
+Temperatura Maxima: 24,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 18,11
+Temperatura Maxima: 27,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 22,3
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 25,55
+Temperatura Maxima: 33,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,5
+Temperatura Maxima: 33
+Temperatura Minima: 18,89
+------------------------------------
+Mes: 8
+Temperatura Media: 26,73
+Temperatura Maxima: 33,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24
+Temperatura Maxima: 29,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 18,25
+Temperatura Maxima: 29,72
+Temperatura Minima: 6,67
+------------------------------------
+Mes: 11
+Temperatura Media: 12,15
+Temperatura Maxima: 23,83
+Temperatura Minima: 0,61
+------------------------------------
+Mes: 12
+Temperatura Media: 8,52
+Temperatura Maxima: 23,11
+Temperatura Minima: -72,78
+------------------------------------

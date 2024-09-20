@@ -1,0 +1,61 @@
+Arquivo: France__Bordeaux.csv
+Mes: 1
+Temperatura Media: 6,52
+Temperatura Maxima: 14,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 7,32
+Temperatura Maxima: 15,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 10,15
+Temperatura Maxima: 18,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 12,58
+Temperatura Maxima: 22,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,82
+Temperatura Maxima: 26,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,15
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,31
+Temperatura Maxima: 31,56
+Temperatura Minima: 11,83
+------------------------------------
+Mes: 8
+Temperatura Media: 21,19
+Temperatura Maxima: 31,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 18,2
+Temperatura Maxima: 27,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 14,83
+Temperatura Maxima: 22,89
+Temperatura Minima: 4
+------------------------------------
+Mes: 11
+Temperatura Media: 9,69
+Temperatura Maxima: 18,28
+Temperatura Minima: -0,94
+------------------------------------
+Mes: 12
+Temperatura Media: 6,54
+Temperatura Maxima: 14,72
+Temperatura Minima: -72,78
+------------------------------------

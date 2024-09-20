@@ -1,0 +1,61 @@
+Arquivo: US__Baltimore.csv
+Mes: 1
+Temperatura Media: 1,21
+Temperatura Maxima: 18,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 2,69
+Temperatura Maxima: 18,72
+Temperatura Minima: -12,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,94
+Temperatura Maxima: 24,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 12,79
+Temperatura Maxima: 26,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,09
+Temperatura Maxima: 29,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,62
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,41
+Temperatura Maxima: 33,28
+Temperatura Minima: 18,56
+------------------------------------
+Mes: 8
+Temperatura Media: 24,16
+Temperatura Maxima: 32,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,51
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 14,25
+Temperatura Maxima: 27,78
+Temperatura Minima: 3,5
+------------------------------------
+Mes: 11
+Temperatura Media: 8,12
+Temperatura Maxima: 21
+Temperatura Minima: -3,44
+------------------------------------
+Mes: 12
+Temperatura Media: 3,32
+Temperatura Maxima: 19,72
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: US__Wilkes_Barre.csv
+Mes: 1
+Temperatura Media: -2,94
+Temperatura Maxima: 16,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,23
+Temperatura Maxima: 16,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 2,75
+Temperatura Maxima: 23,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,22
+Temperatura Maxima: 25,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,34
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,25
+Temperatura Maxima: 29,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,24
+Temperatura Maxima: 31,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 21,29
+Temperatura Maxima: 29,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,44
+Temperatura Maxima: 27,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,28
+Temperatura Maxima: 23,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 5,39
+Temperatura Maxima: 18,44
+Temperatura Minima: -9
+------------------------------------
+Mes: 12
+Temperatura Media: -0,06
+Temperatura Maxima: 18,56
+Temperatura Minima: -72,78
+------------------------------------

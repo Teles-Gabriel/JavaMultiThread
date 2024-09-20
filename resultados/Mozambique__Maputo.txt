@@ -1,0 +1,61 @@
+Arquivo: Mozambique__Maputo.csv
+Mes: 1
+Temperatura Media: 20,07
+Temperatura Maxima: 31,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 23,23
+Temperatura Maxima: 33,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 22,95
+Temperatura Maxima: 31,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 17,4
+Temperatura Maxima: 32,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,76
+Temperatura Maxima: 32,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 12,92
+Temperatura Maxima: 28,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 13,86
+Temperatura Maxima: 26,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 14,2
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 16,37
+Temperatura Maxima: 32,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 17,61
+Temperatura Maxima: 34,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 15,83
+Temperatura Maxima: 32,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 14,89
+Temperatura Maxima: 35,33
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Bulgaria__Sofia.csv
+Mes: 1
+Temperatura Media: -4,13
+Temperatura Maxima: 12
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,29
+Temperatura Maxima: 16,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 2,94
+Temperatura Maxima: 21,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 7,59
+Temperatura Maxima: 23,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 11,74
+Temperatura Maxima: 24,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 15,34
+Temperatura Maxima: 28,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,08
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 17,79
+Temperatura Maxima: 28,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 13,04
+Temperatura Maxima: 25,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 8,04
+Temperatura Maxima: 21,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 2,38
+Temperatura Maxima: 20,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -3,08
+Temperatura Maxima: 16,5
+Temperatura Minima: -72,78
+------------------------------------

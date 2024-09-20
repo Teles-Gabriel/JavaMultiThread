@@ -1,0 +1,61 @@
+Arquivo: United_Kingdom__London.csv
+Mes: 1
+Temperatura Media: 5,38
+Temperatura Maxima: 13,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 5,92
+Temperatura Maxima: 13,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 7,54
+Temperatura Maxima: 15,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 10,09
+Temperatura Maxima: 20
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,88
+Temperatura Maxima: 22,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,1
+Temperatura Maxima: 25,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,71
+Temperatura Maxima: 28,56
+Temperatura Minima: 12,72
+------------------------------------
+Mes: 8
+Temperatura Media: 18,1
+Temperatura Maxima: 28,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,56
+Temperatura Maxima: 23,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 12,35
+Temperatura Maxima: 20,39
+Temperatura Minima: 3,28
+------------------------------------
+Mes: 11
+Temperatura Media: 7,95
+Temperatura Maxima: 16,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 5,45
+Temperatura Maxima: 14,61
+Temperatura Minima: -72,78
+------------------------------------

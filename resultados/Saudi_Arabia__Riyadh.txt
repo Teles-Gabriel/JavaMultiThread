@@ -1,0 +1,61 @@
+Arquivo: Saudi_Arabia__Riyadh.csv
+Mes: 1
+Temperatura Media: 13,61
+Temperatura Maxima: 22,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 16,9
+Temperatura Maxima: 26,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 21,14
+Temperatura Maxima: 30,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 26,36
+Temperatura Maxima: 34,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 31,81
+Temperatura Maxima: 37,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 34,78
+Temperatura Maxima: 39,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 36,53
+Temperatura Maxima: 40,39
+Temperatura Minima: 30,89
+------------------------------------
+Mes: 8
+Temperatura Media: 35,74
+Temperatura Maxima: 40,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 32,57
+Temperatura Maxima: 38,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 27,63
+Temperatura Maxima: 34,17
+Temperatura Minima: 18,39
+------------------------------------
+Mes: 11
+Temperatura Media: 19,74
+Temperatura Maxima: 28,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 14,78
+Temperatura Maxima: 22,89
+Temperatura Minima: -72,78
+------------------------------------

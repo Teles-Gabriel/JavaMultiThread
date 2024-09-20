@@ -1,0 +1,61 @@
+Arquivo: US__Wichita_Falls.csv
+Mes: 1
+Temperatura Media: 5,76
+Temperatura Maxima: 20,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 7,95
+Temperatura Maxima: 22,5
+Temperatura Minima: -11,89
+------------------------------------
+Mes: 3
+Temperatura Media: 12,64
+Temperatura Maxima: 26,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 17,27
+Temperatura Maxima: 28,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 22,46
+Temperatura Maxima: 33,67
+Temperatura Minima: 9,33
+------------------------------------
+Mes: 6
+Temperatura Media: 26,31
+Temperatura Maxima: 36,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,48
+Temperatura Maxima: 36,22
+Temperatura Minima: 19,11
+------------------------------------
+Mes: 8
+Temperatura Media: 29,01
+Temperatura Maxima: 36,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,62
+Temperatura Maxima: 35,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 18,28
+Temperatura Maxima: 29,61
+Temperatura Minima: 1,56
+------------------------------------
+Mes: 11
+Temperatura Media: 11,76
+Temperatura Maxima: 23,94
+Temperatura Minima: -3,33
+------------------------------------
+Mes: 12
+Temperatura Media: 5,55
+Temperatura Maxima: 21
+Temperatura Minima: -72,78
+------------------------------------

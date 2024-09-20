@@ -1,0 +1,61 @@
+Arquivo: Tanzania__Dar_Es_Salaam.csv
+Mes: 1
+Temperatura Media: 23,58
+Temperatura Maxima: 30,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 23,29
+Temperatura Maxima: 32,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 20,42
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 17,79
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,71
+Temperatura Maxima: 29,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 18,26
+Temperatura Maxima: 27,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 17,99
+Temperatura Maxima: 27,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 15,54
+Temperatura Maxima: 27,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,05
+Temperatura Maxima: 27,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 17,75
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 18,5
+Temperatura Maxima: 31,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 16,33
+Temperatura Maxima: 30,89
+Temperatura Minima: -72,78
+------------------------------------

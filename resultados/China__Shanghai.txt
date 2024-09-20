@@ -1,0 +1,61 @@
+Arquivo: China__Shanghai.csv
+Mes: 1
+Temperatura Media: 4,83
+Temperatura Maxima: 19
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6,78
+Temperatura Maxima: 19,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 10,89
+Temperatura Maxima: 23,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,1
+Temperatura Maxima: 26,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 20,82
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,26
+Temperatura Maxima: 33,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,28
+Temperatura Maxima: 35,61
+Temperatura Minima: 19,06
+------------------------------------
+Mes: 8
+Temperatura Media: 28,65
+Temperatura Maxima: 36
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,75
+Temperatura Maxima: 32
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 19,89
+Temperatura Maxima: 27,94
+Temperatura Minima: 8,56
+------------------------------------
+Mes: 11
+Temperatura Media: 13,33
+Temperatura Maxima: 23,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 6,77
+Temperatura Maxima: 18,33
+Temperatura Minima: -72,78
+------------------------------------

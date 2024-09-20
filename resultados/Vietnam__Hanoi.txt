@@ -1,0 +1,61 @@
+Arquivo: Vietnam__Hanoi.csv
+Mes: 1
+Temperatura Media: 16,53
+Temperatura Maxima: 25,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 18,25
+Temperatura Maxima: 26,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 20,71
+Temperatura Maxima: 28,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 24,19
+Temperatura Maxima: 31,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 27,05
+Temperatura Maxima: 33,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 28,95
+Temperatura Maxima: 35,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,3
+Temperatura Maxima: 34,72
+Temperatura Minima: 24,33
+------------------------------------
+Mes: 8
+Temperatura Media: 28,26
+Temperatura Maxima: 33,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,67
+Temperatura Maxima: 32
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 25,14
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 21,63
+Temperatura Maxima: 28,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 17,55
+Temperatura Maxima: 27,11
+Temperatura Minima: -72,78
+------------------------------------

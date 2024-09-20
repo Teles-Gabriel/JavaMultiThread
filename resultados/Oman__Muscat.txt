@@ -1,0 +1,61 @@
+Arquivo: Oman__Muscat.csv
+Mes: 1
+Temperatura Media: -3,46
+Temperatura Maxima: 26,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -7,74
+Temperatura Maxima: 32,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -1,58
+Temperatura Maxima: 32,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -3,72
+Temperatura Maxima: 34,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -0,68
+Temperatura Maxima: 39,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -6,3
+Temperatura Maxima: 41,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -12,57
+Temperatura Maxima: 40,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -8,9
+Temperatura Maxima: 38,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -6,83
+Temperatura Maxima: 36,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -3,2
+Temperatura Maxima: 35
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -6,55
+Temperatura Maxima: 30,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -6,53
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------

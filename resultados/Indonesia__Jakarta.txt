@@ -1,0 +1,61 @@
+Arquivo: Indonesia__Jakarta.csv
+Mes: 1
+Temperatura Media: 0,69
+Temperatura Maxima: 32,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,04
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -1,21
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 4,22
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 4,03
+Temperatura Maxima: 32
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 3,67
+Temperatura Maxima: 31,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 1,77
+Temperatura Maxima: 31,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 2,28
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 3,75
+Temperatura Maxima: 31,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 5,96
+Temperatura Maxima: 32,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 3,9
+Temperatura Maxima: 32,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -1,29
+Temperatura Maxima: 31,17
+Temperatura Minima: -72,78
+------------------------------------

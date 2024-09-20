@@ -1,0 +1,61 @@
+Arquivo: Australia__Sydney.csv
+Mes: 1
+Temperatura Media: 19,66
+Temperatura Maxima: 36
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 19,46
+Temperatura Maxima: 33,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 17,72
+Temperatura Maxima: 32,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,41
+Temperatura Maxima: 26,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 11,6
+Temperatura Maxima: 19,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 9,5
+Temperatura Maxima: 16,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 9,32
+Temperatura Maxima: 16
+Temperatura Minima: 4,39
+------------------------------------
+Mes: 8
+Temperatura Media: 9,81
+Temperatura Maxima: 17,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 11,56
+Temperatura Maxima: 22,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 13,95
+Temperatura Maxima: 26,39
+Temperatura Minima: 6,78
+------------------------------------
+Mes: 11
+Temperatura Media: 15,74
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 17,36
+Temperatura Maxima: 33,72
+Temperatura Minima: -72,78
+------------------------------------

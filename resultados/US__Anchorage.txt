@@ -1,0 +1,61 @@
+Arquivo: US__Anchorage.csv
+Mes: 1
+Temperatura Media: -8,22
+Temperatura Maxima: 5,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -5,41
+Temperatura Maxima: 5,28
+Temperatura Minima: -28,67
+------------------------------------
+Mes: 3
+Temperatura Media: -3,35
+Temperatura Maxima: 6,11
+Temperatura Minima: -19,5
+------------------------------------
+Mes: 4
+Temperatura Media: 3,04
+Temperatura Maxima: 14,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 9,21
+Temperatura Maxima: 17,83
+Temperatura Minima: -1,39
+------------------------------------
+Mes: 6
+Temperatura Media: 12,85
+Temperatura Maxima: 22,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 15,28
+Temperatura Maxima: 23,33
+Temperatura Minima: 10,06
+------------------------------------
+Mes: 8
+Temperatura Media: 13,96
+Temperatura Maxima: 24,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 9,77
+Temperatura Maxima: 16,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 2,84
+Temperatura Maxima: 14,33
+Temperatura Minima: -12,83
+------------------------------------
+Mes: 11
+Temperatura Media: -4,17
+Temperatura Maxima: 7,33
+Temperatura Minima: -19,39
+------------------------------------
+Mes: 12
+Temperatura Media: -7,01
+Temperatura Maxima: 5,61
+Temperatura Minima: -72,78
+------------------------------------

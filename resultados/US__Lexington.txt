@@ -1,0 +1,61 @@
+Arquivo: US__Lexington.csv
+Mes: 1
+Temperatura Media: 0,61
+Temperatura Maxima: 18,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 2,78
+Temperatura Maxima: 20,33
+Temperatura Minima: -18,28
+------------------------------------
+Mes: 3
+Temperatura Media: 7,33
+Temperatura Maxima: 24,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 12,74
+Temperatura Maxima: 24,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 18,16
+Temperatura Maxima: 27,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 22,2
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 24,37
+Temperatura Maxima: 31,61
+Temperatura Minima: 17
+------------------------------------
+Mes: 8
+Temperatura Media: 23,76
+Temperatura Maxima: 31,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,35
+Temperatura Maxima: 28,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 14,2
+Temperatura Maxima: 28,11
+Temperatura Minima: 2,94
+------------------------------------
+Mes: 11
+Temperatura Media: 7,61
+Temperatura Maxima: 21,11
+Temperatura Minima: -7,94
+------------------------------------
+Mes: 12
+Temperatura Media: 2,71
+Temperatura Maxima: 18,17
+Temperatura Minima: -72,78
+------------------------------------

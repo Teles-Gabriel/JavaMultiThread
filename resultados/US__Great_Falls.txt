@@ -1,0 +1,61 @@
+Arquivo: US__Great_Falls.csv
+Mes: 1
+Temperatura Media: -3,37
+Temperatura Maxima: 13,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -3,17
+Temperatura Maxima: 12,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 0,92
+Temperatura Maxima: 18,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 4,3
+Temperatura Maxima: 20,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 9,79
+Temperatura Maxima: 23,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 13,81
+Temperatura Maxima: 27,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 20,9
+Temperatura Maxima: 37,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 19,56
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14
+Temperatura Maxima: 26,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 7,44
+Temperatura Maxima: 21,89
+Temperatura Minima: -15,56
+------------------------------------
+Mes: 11
+Temperatura Media: 1,55
+Temperatura Maxima: 17
+Temperatura Minima: -23,33
+------------------------------------
+Mes: 12
+Temperatura Media: -3,54
+Temperatura Maxima: 12,44
+Temperatura Minima: -72,78
+------------------------------------

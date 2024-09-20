@@ -1,0 +1,61 @@
+Arquivo: US__Honolulu.csv
+Mes: 1
+Temperatura Media: 23,01
+Temperatura Maxima: 26,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 22,86
+Temperatura Maxima: 26,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 23,35
+Temperatura Maxima: 27,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 24,28
+Temperatura Maxima: 27,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,26
+Temperatura Maxima: 28,89
+Temperatura Minima: 20,67
+------------------------------------
+Mes: 6
+Temperatura Media: 25,85
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,01
+Temperatura Maxima: 30,67
+Temperatura Minima: 24,22
+------------------------------------
+Mes: 8
+Temperatura Media: 27,07
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 26,67
+Temperatura Maxima: 30,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 26,46
+Temperatura Maxima: 29
+Temperatura Minima: 20,94
+------------------------------------
+Mes: 11
+Temperatura Media: 25,16
+Temperatura Maxima: 28,39
+Temperatura Minima: 21,33
+------------------------------------
+Mes: 12
+Temperatura Media: 23,38
+Temperatura Maxima: 27,56
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Ivory_Coast__Abidjan.csv
+Mes: 1
+Temperatura Media: 23,57
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 24,35
+Temperatura Maxima: 31,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 26,63
+Temperatura Maxima: 31,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 25,13
+Temperatura Maxima: 30,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,63
+Temperatura Maxima: 30,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 22,32
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,38
+Temperatura Maxima: 27,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 22,86
+Temperatura Maxima: 26,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 22,81
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 26,46
+Temperatura Maxima: 28,72
+Temperatura Minima: 10,06
+------------------------------------
+Mes: 11
+Temperatura Media: 22,94
+Temperatura Maxima: 29,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 23,29
+Temperatura Maxima: 30,72
+Temperatura Minima: -72,78
+------------------------------------

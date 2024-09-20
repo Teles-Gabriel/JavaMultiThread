@@ -1,0 +1,61 @@
+Arquivo: US__New_York_City.csv
+Mes: 1
+Temperatura Media: 1,06
+Temperatura Maxima: 16,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 2,25
+Temperatura Maxima: 16,56
+Temperatura Minima: -13,17
+------------------------------------
+Mes: 3
+Temperatura Media: 5,7
+Temperatura Maxima: 22,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 11,31
+Temperatura Maxima: 27,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 16,62
+Temperatura Maxima: 31,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,41
+Temperatura Maxima: 33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,61
+Temperatura Maxima: 34,28
+Temperatura Minima: 18,72
+------------------------------------
+Mes: 8
+Temperatura Media: 24,8
+Temperatura Maxima: 33,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,12
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 15,22
+Temperatura Maxima: 26,89
+Temperatura Minima: 4,17
+------------------------------------
+Mes: 11
+Temperatura Media: 9,16
+Temperatura Maxima: 20,17
+Temperatura Minima: -4,78
+------------------------------------
+Mes: 12
+Temperatura Media: 3,91
+Temperatura Maxima: 18,33
+Temperatura Minima: -72,78
+------------------------------------

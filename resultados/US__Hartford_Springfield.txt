@@ -1,0 +1,61 @@
+Arquivo: US__Hartford_Springfield.csv
+Mes: 1
+Temperatura Media: -2,46
+Temperatura Maxima: 16,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,02
+Temperatura Maxima: 15,39
+Temperatura Minima: -18,94
+------------------------------------
+Mes: 3
+Temperatura Media: 3,21
+Temperatura Maxima: 21,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,55
+Temperatura Maxima: 26,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,18
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,62
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,41
+Temperatura Maxima: 32,11
+Temperatura Minima: 15,83
+------------------------------------
+Mes: 8
+Temperatura Media: 22,12
+Temperatura Maxima: 30,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 18,13
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,78
+Temperatura Maxima: 23,39
+Temperatura Minima: 0,78
+------------------------------------
+Mes: 11
+Temperatura Media: 5,74
+Temperatura Maxima: 18,72
+Temperatura Minima: -8,33
+------------------------------------
+Mes: 12
+Temperatura Media: 0,21
+Temperatura Maxima: 17,17
+Temperatura Minima: -72,78
+------------------------------------

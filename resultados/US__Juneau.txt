@@ -1,0 +1,61 @@
+Arquivo: US__Juneau.csv
+Mes: 1
+Temperatura Media: -1,78
+Temperatura Maxima: 8,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -0,76
+Temperatura Maxima: 7,67
+Temperatura Minima: -16,44
+------------------------------------
+Mes: 3
+Temperatura Media: 0,45
+Temperatura Maxima: 10,67
+Temperatura Minima: -14,67
+------------------------------------
+Mes: 4
+Temperatura Media: 4,77
+Temperatura Maxima: 16,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 9,68
+Temperatura Maxima: 20,39
+Temperatura Minima: 2,44
+------------------------------------
+Mes: 6
+Temperatura Media: 12,23
+Temperatura Maxima: 22,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 13,88
+Temperatura Maxima: 21,28
+Temperatura Minima: 8,5
+------------------------------------
+Mes: 8
+Temperatura Media: 13,14
+Temperatura Maxima: 20,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 10,05
+Temperatura Maxima: 16,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 5,87
+Temperatura Maxima: 12,67
+Temperatura Minima: -3,33
+------------------------------------
+Mes: 11
+Temperatura Media: 1,07
+Temperatura Maxima: 10,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -1,19
+Temperatura Maxima: 8,94
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Egypt__Cairo.csv
+Mes: 1
+Temperatura Media: 14,14
+Temperatura Maxima: 25,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 15,75
+Temperatura Maxima: 28,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 18,38
+Temperatura Maxima: 31,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 20,49
+Temperatura Maxima: 32,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,06
+Temperatura Maxima: 37,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 27,76
+Temperatura Maxima: 36,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,26
+Temperatura Maxima: 37,17
+Temperatura Minima: 24,5
+------------------------------------
+Mes: 8
+Temperatura Media: 28,97
+Temperatura Maxima: 35,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,46
+Temperatura Maxima: 34,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 24,45
+Temperatura Maxima: 32,11
+Temperatura Minima: 18
+------------------------------------
+Mes: 11
+Temperatura Media: 19,64
+Temperatura Maxima: 28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 15,37
+Temperatura Maxima: 25,67
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Nepal__Katmandu.csv
+Mes: 1
+Temperatura Media: 2,08
+Temperatura Maxima: 17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 4,65
+Temperatura Maxima: 21,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 5,51
+Temperatura Maxima: 24,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,73
+Temperatura Maxima: 28,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 10,97
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 10,3
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 12,29
+Temperatura Maxima: 28,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 12,19
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,29
+Temperatura Maxima: 27,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 14,56
+Temperatura Maxima: 25,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 9,55
+Temperatura Maxima: 24,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 5,81
+Temperatura Maxima: 19
+Temperatura Minima: -72,78
+------------------------------------

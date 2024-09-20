@@ -1,0 +1,61 @@
+Arquivo: Czech_Republic__Prague.csv
+Mes: 1
+Temperatura Media: -1,26
+Temperatura Maxima: 11,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 0,55
+Temperatura Maxima: 11,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 3,84
+Temperatura Maxima: 14,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,01
+Temperatura Maxima: 21,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,97
+Temperatura Maxima: 23,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,37
+Temperatura Maxima: 28,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,71
+Temperatura Maxima: 28,06
+Temperatura Minima: 10,56
+------------------------------------
+Mes: 8
+Temperatura Media: 18,3
+Temperatura Maxima: 28,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 13,7
+Temperatura Maxima: 25,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 8,97
+Temperatura Maxima: 19,67
+Temperatura Minima: -2,33
+------------------------------------
+Mes: 11
+Temperatura Media: 3,51
+Temperatura Maxima: 14,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -0,31
+Temperatura Maxima: 10,22
+Temperatura Minima: -72,78
+------------------------------------

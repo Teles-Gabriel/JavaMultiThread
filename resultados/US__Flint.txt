@@ -1,0 +1,61 @@
+Arquivo: US__Flint.csv
+Mes: 1
+Temperatura Media: -4,34
+Temperatura Maxima: 13,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -3,26
+Temperatura Maxima: 13,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 1,66
+Temperatura Maxima: 21,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,18
+Temperatura Maxima: 25,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,8
+Temperatura Maxima: 27,5
+Temperatura Minima: 3,94
+------------------------------------
+Mes: 6
+Temperatura Media: 19,7
+Temperatura Maxima: 29,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,3
+Temperatura Maxima: 31,89
+Temperatura Minima: 13,56
+------------------------------------
+Mes: 8
+Temperatura Media: 21,02
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,01
+Temperatura Maxima: 27,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,73
+Temperatura Maxima: 24,56
+Temperatura Minima: -0,28
+------------------------------------
+Mes: 11
+Temperatura Media: 4,21
+Temperatura Maxima: 18,78
+Temperatura Minima: -9,89
+------------------------------------
+Mes: 12
+Temperatura Media: -1,61
+Temperatura Maxima: 15,89
+Temperatura Minima: -72,78
+------------------------------------

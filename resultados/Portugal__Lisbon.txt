@@ -1,0 +1,61 @@
+Arquivo: Portugal__Lisbon.csv
+Mes: 1
+Temperatura Media: 10,85
+Temperatura Maxima: 17,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 11,95
+Temperatura Maxima: 18,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 13,73
+Temperatura Maxima: 20,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 15,13
+Temperatura Maxima: 26,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,24
+Temperatura Maxima: 28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 20,31
+Temperatura Maxima: 32,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,2
+Temperatura Maxima: 31,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 23,01
+Temperatura Maxima: 35,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,34
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 18,69
+Temperatura Maxima: 26,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 13,58
+Temperatura Maxima: 21
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 11,3
+Temperatura Maxima: 17,83
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: US__Tallahassee.csv
+Mes: 1
+Temperatura Media: 10,84
+Temperatura Maxima: 22,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 13,01
+Temperatura Maxima: 23,72
+Temperatura Minima: -2,78
+------------------------------------
+Mes: 3
+Temperatura Media: 16,05
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 19,28
+Temperatura Maxima: 27,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 23,95
+Temperatura Maxima: 29,61
+Temperatura Minima: 15,28
+------------------------------------
+Mes: 6
+Temperatura Media: 25,4
+Temperatura Maxima: 33,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,31
+Temperatura Maxima: 31,94
+Temperatura Minima: 23
+------------------------------------
+Mes: 8
+Temperatura Media: 27,11
+Temperatura Maxima: 32,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 25,57
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 21,06
+Temperatura Maxima: 27,83
+Temperatura Minima: 7,56
+------------------------------------
+Mes: 11
+Temperatura Media: 14,6
+Temperatura Maxima: 27,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 11,56
+Temperatura Maxima: 23,78
+Temperatura Minima: -72,78
+------------------------------------

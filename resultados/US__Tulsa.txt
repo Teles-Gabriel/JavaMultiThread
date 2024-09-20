@@ -1,0 +1,61 @@
+Arquivo: US__Tulsa.csv
+Mes: 1
+Temperatura Media: 3,44
+Temperatura Maxima: 20
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 5,93
+Temperatura Maxima: 24,78
+Temperatura Minima: -15,44
+------------------------------------
+Mes: 3
+Temperatura Media: 10,92
+Temperatura Maxima: 25,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,05
+Temperatura Maxima: 28,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 20,92
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 25,14
+Temperatura Maxima: 33,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,56
+Temperatura Maxima: 36,89
+Temperatura Minima: 18,17
+------------------------------------
+Mes: 8
+Temperatura Media: 27,87
+Temperatura Maxima: 38
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 23,29
+Temperatura Maxima: 33,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 16,86
+Temperatura Maxima: 28,11
+Temperatura Minima: 1,78
+------------------------------------
+Mes: 11
+Temperatura Media: 10,48
+Temperatura Maxima: 24,61
+Temperatura Minima: -5,22
+------------------------------------
+Mes: 12
+Temperatura Media: 4,4
+Temperatura Maxima: 20,94
+Temperatura Minima: -72,78
+------------------------------------

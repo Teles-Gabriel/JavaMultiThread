@@ -1,0 +1,61 @@
+Arquivo: US__Baton_Rouge.csv
+Mes: 1
+Temperatura Media: 10,96
+Temperatura Maxima: 23,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 12,56
+Temperatura Maxima: 24,33
+Temperatura Minima: -5,28
+------------------------------------
+Mes: 3
+Temperatura Media: 15,57
+Temperatura Maxima: 25,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,6
+Temperatura Maxima: 26,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 22,46
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,27
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,48
+Temperatura Maxima: 31,5
+Temperatura Minima: 23,17
+------------------------------------
+Mes: 8
+Temperatura Media: 27,24
+Temperatura Maxima: 32,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,96
+Temperatura Maxima: 31,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 20,04
+Temperatura Maxima: 28,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 15,1
+Temperatura Maxima: 25,44
+Temperatura Minima: 4,39
+------------------------------------
+Mes: 12
+Temperatura Media: 10,83
+Temperatura Maxima: 24,28
+Temperatura Minima: -72,78
+------------------------------------

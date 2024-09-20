@@ -1,0 +1,61 @@
+Arquivo: US__Tucson.csv
+Mes: 1
+Temperatura Media: 11,37
+Temperatura Maxima: 20,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 13,06
+Temperatura Maxima: 22,11
+Temperatura Minima: -2,44
+------------------------------------
+Mes: 3
+Temperatura Media: 16,46
+Temperatura Maxima: 27,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 20,29
+Temperatura Maxima: 30,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,44
+Temperatura Maxima: 35,44
+Temperatura Minima: 12,72
+------------------------------------
+Mes: 6
+Temperatura Media: 29,92
+Temperatura Maxima: 38,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 30,84
+Temperatura Maxima: 37,44
+Temperatura Minima: 23,5
+------------------------------------
+Mes: 8
+Temperatura Media: 29,43
+Temperatura Maxima: 37,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,79
+Temperatura Maxima: 33,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 22,27
+Temperatura Maxima: 29,89
+Temperatura Minima: 7,61
+------------------------------------
+Mes: 11
+Temperatura Media: 16,23
+Temperatura Maxima: 26,78
+Temperatura Minima: 4
+------------------------------------
+Mes: 12
+Temperatura Media: 10,59
+Temperatura Maxima: 19,94
+Temperatura Minima: -72,78
+------------------------------------

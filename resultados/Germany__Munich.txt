@@ -1,0 +1,61 @@
+Arquivo: Germany__Munich.csv
+Mes: 1
+Temperatura Media: -0,55
+Temperatura Maxima: 12,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 0,87
+Temperatura Maxima: 12,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 2,59
+Temperatura Maxima: 16,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,78
+Temperatura Maxima: 20,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,29
+Temperatura Maxima: 23,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,92
+Temperatura Maxima: 25,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,81
+Temperatura Maxima: 26,28
+Temperatura Minima: 10,5
+------------------------------------
+Mes: 8
+Temperatura Media: 18,35
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 11,81
+Temperatura Maxima: 22,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 9,5
+Temperatura Maxima: 20,5
+Temperatura Minima: -1,44
+------------------------------------
+Mes: 11
+Temperatura Media: 3,12
+Temperatura Maxima: 14,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -7,28
+Temperatura Maxima: 11,78
+Temperatura Minima: -72,78
+------------------------------------

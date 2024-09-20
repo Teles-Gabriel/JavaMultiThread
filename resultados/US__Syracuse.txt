@@ -1,0 +1,61 @@
+Arquivo: US__Syracuse.csv
+Mes: 1
+Temperatura Media: -3,92
+Temperatura Maxima: 17,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -3
+Temperatura Maxima: 14,83
+Temperatura Minima: -23,22
+------------------------------------
+Mes: 3
+Temperatura Media: 1,21
+Temperatura Maxima: 23
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 7,88
+Temperatura Maxima: 23,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,75
+Temperatura Maxima: 26,89
+Temperatura Minima: 1
+------------------------------------
+Mes: 6
+Temperatura Media: 19
+Temperatura Maxima: 28,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,31
+Temperatura Maxima: 30,83
+Temperatura Minima: 14,33
+------------------------------------
+Mes: 8
+Temperatura Media: 21,13
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,11
+Temperatura Maxima: 28,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,99
+Temperatura Maxima: 23,78
+Temperatura Minima: 0,78
+------------------------------------
+Mes: 11
+Temperatura Media: 4,8
+Temperatura Maxima: 19,11
+Temperatura Minima: -11,5
+------------------------------------
+Mes: 12
+Temperatura Media: -1,01
+Temperatura Maxima: 16,83
+Temperatura Minima: -72,78
+------------------------------------

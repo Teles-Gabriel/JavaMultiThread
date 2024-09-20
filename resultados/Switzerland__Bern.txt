@@ -1,0 +1,61 @@
+Arquivo: Switzerland__Bern.csv
+Mes: 1
+Temperatura Media: 0,13
+Temperatura Maxima: 13,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,73
+Temperatura Maxima: 14,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 5,66
+Temperatura Maxima: 18,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,51
+Temperatura Maxima: 19,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,89
+Temperatura Maxima: 26,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 17,58
+Temperatura Maxima: 28,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 19,51
+Temperatura Maxima: 27,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 18,67
+Temperatura Maxima: 27,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,31
+Temperatura Maxima: 22,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,19
+Temperatura Maxima: 18,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 4,07
+Temperatura Maxima: 14,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -0,37
+Temperatura Maxima: 11,22
+Temperatura Minima: -72,78
+------------------------------------

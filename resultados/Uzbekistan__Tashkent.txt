@@ -1,0 +1,61 @@
+Arquivo: Uzbekistan__Tashkent.csv
+Mes: 1
+Temperatura Media: 2,04
+Temperatura Maxima: 14,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 4,35
+Temperatura Maxima: 16,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 8,52
+Temperatura Maxima: 24,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,43
+Temperatura Maxima: 28,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 21,8
+Temperatura Maxima: 31,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 26,48
+Temperatura Maxima: 34,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,32
+Temperatura Maxima: 35,22
+Temperatura Minima: 21
+------------------------------------
+Mes: 8
+Temperatura Media: 27,32
+Temperatura Maxima: 34,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,05
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 13
+Temperatura Maxima: 27,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 5,94
+Temperatura Maxima: 22,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 2,84
+Temperatura Maxima: 16,61
+Temperatura Minima: -72,78
+------------------------------------

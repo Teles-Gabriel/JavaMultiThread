@@ -1,0 +1,61 @@
+Arquivo: US__Green_Bay.csv
+Mes: 1
+Temperatura Media: -7,1
+Temperatura Maxima: 7,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -5,71
+Temperatura Maxima: 11,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -0,06
+Temperatura Maxima: 20,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 6,59
+Temperatura Maxima: 23,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,13
+Temperatura Maxima: 26,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 17,57
+Temperatura Maxima: 30,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,54
+Temperatura Maxima: 32,94
+Temperatura Minima: 12,89
+------------------------------------
+Mes: 8
+Temperatura Media: 20,16
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,85
+Temperatura Maxima: 26,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 9,48
+Temperatura Maxima: 24,78
+Temperatura Minima: -2,44
+------------------------------------
+Mes: 11
+Temperatura Media: 2,43
+Temperatura Maxima: 16,28
+Temperatura Minima: -11,83
+------------------------------------
+Mes: 12
+Temperatura Media: -4,36
+Temperatura Maxima: 13,33
+Temperatura Minima: -72,78
+------------------------------------

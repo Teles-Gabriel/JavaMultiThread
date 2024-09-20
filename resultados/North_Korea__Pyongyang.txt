@@ -1,0 +1,61 @@
+Arquivo: North_Korea__Pyongyang.csv
+Mes: 1
+Temperatura Media: -6,73
+Temperatura Maxima: 5,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -5,91
+Temperatura Maxima: 11,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 1,64
+Temperatura Maxima: 16
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 10,38
+Temperatura Maxima: 21,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,61
+Temperatura Maxima: 26,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 20,15
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,99
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 22,35
+Temperatura Maxima: 31,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 18,44
+Temperatura Maxima: 28,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,69
+Temperatura Maxima: 22,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 2,6
+Temperatura Maxima: 17,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -4,61
+Temperatura Maxima: 8,61
+Temperatura Minima: -72,78
+------------------------------------

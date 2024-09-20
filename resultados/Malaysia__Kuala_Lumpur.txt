@@ -1,0 +1,61 @@
+Arquivo: Malaysia__Kuala_Lumpur.csv
+Mes: 1
+Temperatura Media: 26,82
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 27,67
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 27,86
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 28,04
+Temperatura Maxima: 32
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 28,01
+Temperatura Maxima: 31,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 27,59
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,14
+Temperatura Maxima: 31,22
+Temperatura Minima: 24,94
+------------------------------------
+Mes: 8
+Temperatura Media: 25,08
+Temperatura Maxima: 31,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 23,67
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 23,85
+Temperatura Maxima: 30,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 22,85
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 23,24
+Temperatura Maxima: 30,11
+Temperatura Minima: -72,78
+------------------------------------

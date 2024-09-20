@@ -1,0 +1,61 @@
+Arquivo: Brazil__Rio_de_Janeiro.csv
+Mes: 1
+Temperatura Media: 26,25
+Temperatura Maxima: 33,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 26,07
+Temperatura Maxima: 32,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 26,31
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 25,02
+Temperatura Maxima: 29,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 22,19
+Temperatura Maxima: 28,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21
+Temperatura Maxima: 27
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,67
+Temperatura Maxima: 27,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 21,4
+Temperatura Maxima: 30,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,13
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 22,04
+Temperatura Maxima: 30,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 19
+Temperatura Maxima: 31,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 22,22
+Temperatura Maxima: 34,11
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Switzerland__Zurich.csv
+Mes: 1
+Temperatura Media: 0,63
+Temperatura Maxima: 12,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,92
+Temperatura Maxima: 13,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 5,53
+Temperatura Maxima: 15,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,41
+Temperatura Maxima: 21,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,03
+Temperatura Maxima: 24,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,88
+Temperatura Maxima: 27,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,9
+Temperatura Maxima: 27,67
+Temperatura Minima: 9,61
+------------------------------------
+Mes: 8
+Temperatura Media: 18,12
+Temperatura Maxima: 28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,09
+Temperatura Maxima: 22,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,11
+Temperatura Maxima: 20
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 4,4
+Temperatura Maxima: 14,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 1,11
+Temperatura Maxima: 11,11
+Temperatura Minima: -72,78
+------------------------------------

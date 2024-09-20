@@ -1,0 +1,61 @@
+Arquivo: Ukraine__Kiev.csv
+Mes: 1
+Temperatura Media: -3,89
+Temperatura Maxima: 7,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -2,26
+Temperatura Maxima: 8,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 2,08
+Temperatura Maxima: 13,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,96
+Temperatura Maxima: 22,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,61
+Temperatura Maxima: 26,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,09
+Temperatura Maxima: 28,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,35
+Temperatura Maxima: 29,61
+Temperatura Minima: 12,44
+------------------------------------
+Mes: 8
+Temperatura Media: 20,11
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,32
+Temperatura Maxima: 27,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 8,35
+Temperatura Maxima: 19,89
+Temperatura Minima: -2,78
+------------------------------------
+Mes: 11
+Temperatura Media: 2,53
+Temperatura Maxima: 16,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -2,42
+Temperatura Maxima: 10,44
+Temperatura Minima: -72,78
+------------------------------------

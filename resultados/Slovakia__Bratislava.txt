@@ -1,0 +1,61 @@
+Arquivo: Slovakia__Bratislava.csv
+Mes: 1
+Temperatura Media: -0,43
+Temperatura Maxima: 12,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 2,08
+Temperatura Maxima: 14,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,04
+Temperatura Maxima: 16,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 11,52
+Temperatura Maxima: 21,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,54
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,56
+Temperatura Maxima: 28,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,79
+Temperatura Maxima: 29,72
+Temperatura Minima: 13,94
+------------------------------------
+Mes: 8
+Temperatura Media: 21,05
+Temperatura Maxima: 29,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,96
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,95
+Temperatura Maxima: 20
+Temperatura Minima: -1,11
+------------------------------------
+Mes: 11
+Temperatura Media: 5,48
+Temperatura Maxima: 17,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 0,5
+Temperatura Maxima: 11
+Temperatura Minima: -72,78
+------------------------------------

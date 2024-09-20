@@ -1,0 +1,61 @@
+Arquivo: United_Kingdom__Belfast.csv
+Mes: 1
+Temperatura Media: 4,97
+Temperatura Maxima: 13,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 5,75
+Temperatura Maxima: 13,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,9
+Temperatura Maxima: 13,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,7
+Temperatura Maxima: 16,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 11,34
+Temperatura Maxima: 21,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 13,91
+Temperatura Maxima: 25,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 16,04
+Temperatura Maxima: 24,33
+Temperatura Minima: 10,22
+------------------------------------
+Mes: 8
+Temperatura Media: 15,35
+Temperatura Maxima: 24,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 13,57
+Temperatura Maxima: 20,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,05
+Temperatura Maxima: 19
+Temperatura Minima: 2,39
+------------------------------------
+Mes: 11
+Temperatura Media: 7,28
+Temperatura Maxima: 15,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 3,03
+Temperatura Maxima: 14,28
+Temperatura Minima: -72,78
+------------------------------------

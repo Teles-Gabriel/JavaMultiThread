@@ -1,0 +1,61 @@
+Arquivo: Argentina__Buenos_Aires.csv
+Mes: 1
+Temperatura Media: 23,8
+Temperatura Maxima: 32,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 22,81
+Temperatura Maxima: 31,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 20,73
+Temperatura Maxima: 29,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 17,09
+Temperatura Maxima: 27,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,21
+Temperatura Maxima: 24,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 10,37
+Temperatura Maxima: 23,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 10,25
+Temperatura Maxima: 24
+Temperatura Minima: 1,83
+------------------------------------
+Mes: 8
+Temperatura Media: 11,94
+Temperatura Maxima: 26,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 13,22
+Temperatura Maxima: 28,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 16,84
+Temperatura Maxima: 28,06
+Temperatura Minima: 6,22
+------------------------------------
+Mes: 11
+Temperatura Media: 19,51
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 21,96
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------

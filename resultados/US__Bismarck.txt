@@ -1,0 +1,61 @@
+Arquivo: US__Bismarck.csv
+Mes: 1
+Temperatura Media: -10,31
+Temperatura Maxima: 7,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -7,97
+Temperatura Maxima: 7,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -2,03
+Temperatura Maxima: 17,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 4,87
+Temperatura Maxima: 23
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 12,7
+Temperatura Maxima: 25,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 18,25
+Temperatura Maxima: 33,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,35
+Temperatura Maxima: 31,61
+Temperatura Minima: 12,94
+------------------------------------
+Mes: 8
+Temperatura Media: 20,87
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,26
+Temperatura Maxima: 27,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 7,25
+Temperatura Maxima: 22,72
+Temperatura Minima: -8,67
+------------------------------------
+Mes: 11
+Temperatura Media: -1,06
+Temperatura Maxima: 13,89
+Temperatura Minima: -18,78
+------------------------------------
+Mes: 12
+Temperatura Media: -8,02
+Temperatura Maxima: 7,67
+Temperatura Minima: -72,78
+------------------------------------

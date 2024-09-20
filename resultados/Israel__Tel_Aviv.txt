@@ -1,0 +1,61 @@
+Arquivo: Israel__Tel_Aviv.csv
+Mes: 1
+Temperatura Media: 2,97
+Temperatura Maxima: 20,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,97
+Temperatura Maxima: 24
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 8,25
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,93
+Temperatura Maxima: 31,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 20,7
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,7
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,22
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 20,49
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 13,04
+Temperatura Maxima: 29,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 7,37
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 8,34
+Temperatura Maxima: 27,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 1,75
+Temperatura Maxima: 22,06
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: US__Richmond.csv
+Mes: 1
+Temperatura Media: 3,59
+Temperatura Maxima: 19,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 5,23
+Temperatura Maxima: 20
+Temperatura Minima: -12,33
+------------------------------------
+Mes: 3
+Temperatura Media: 9,21
+Temperatura Maxima: 25,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,28
+Temperatura Maxima: 26,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,17
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 23,48
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,99
+Temperatura Maxima: 34,17
+Temperatura Minima: 17,61
+------------------------------------
+Mes: 8
+Temperatura Media: 24,89
+Temperatura Maxima: 32,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,51
+Temperatura Maxima: 29,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 15,69
+Temperatura Maxima: 27,72
+Temperatura Minima: 5,72
+------------------------------------
+Mes: 11
+Temperatura Media: 9,71
+Temperatura Maxima: 22
+Temperatura Minima: -2,28
+------------------------------------
+Mes: 12
+Temperatura Media: 5,28
+Temperatura Maxima: 21,89
+Temperatura Minima: -72,78
+------------------------------------

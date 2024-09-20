@@ -1,0 +1,61 @@
+Arquivo: US__Tampa_St._Petersburg.csv
+Mes: 1
+Temperatura Media: 15,79
+Temperatura Maxima: 24,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 17,53
+Temperatura Maxima: 26,06
+Temperatura Minima: 2,22
+------------------------------------
+Mes: 3
+Temperatura Media: 19,69
+Temperatura Maxima: 26,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 22,22
+Temperatura Maxima: 28,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,72
+Temperatura Maxima: 29,78
+Temperatura Minima: 14,94
+------------------------------------
+Mes: 6
+Temperatura Media: 26,94
+Temperatura Maxima: 31,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,96
+Temperatura Maxima: 32,67
+Temperatura Minima: 24,39
+------------------------------------
+Mes: 8
+Temperatura Media: 27,96
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,16
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 24,47
+Temperatura Maxima: 29,72
+Temperatura Minima: 11,78
+------------------------------------
+Mes: 11
+Temperatura Media: 19,39
+Temperatura Maxima: 28,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 16,89
+Temperatura Maxima: 25,33
+Temperatura Minima: -72,78
+------------------------------------

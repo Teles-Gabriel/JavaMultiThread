@@ -1,0 +1,61 @@
+Arquivo: Spain__Barcelona.csv
+Mes: 1
+Temperatura Media: 9,26
+Temperatura Maxima: 17,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 10,09
+Temperatura Maxima: 18,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 12,14
+Temperatura Maxima: 17,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,3
+Temperatura Maxima: 19,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,14
+Temperatura Maxima: 23,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,28
+Temperatura Maxima: 28,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 24,49
+Temperatura Maxima: 28,72
+Temperatura Minima: 17,83
+------------------------------------
+Mes: 8
+Temperatura Media: 24,64
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,65
+Temperatura Maxima: 26,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 18,39
+Temperatura Maxima: 24,28
+Temperatura Minima: 8,22
+------------------------------------
+Mes: 11
+Temperatura Media: 12,64
+Temperatura Maxima: 20,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 9,46
+Temperatura Maxima: 17,78
+Temperatura Minima: -72,78
+------------------------------------

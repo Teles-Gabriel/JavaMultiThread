@@ -1,0 +1,61 @@
+Arquivo: US__Dallas_Ft_Worth.csv
+Mes: 1
+Temperatura Media: 8,03
+Temperatura Maxima: 22,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 10,39
+Temperatura Maxima: 24,44
+Temperatura Minima: -8,83
+------------------------------------
+Mes: 3
+Temperatura Media: 14,56
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 18,86
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 23,49
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 26,95
+Temperatura Maxima: 34,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 30,05
+Temperatura Maxima: 35,33
+Temperatura Minima: 21,06
+------------------------------------
+Mes: 8
+Temperatura Media: 30,02
+Temperatura Maxima: 36,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 26,15
+Temperatura Maxima: 35,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 20,18
+Temperatura Maxima: 29,39
+Temperatura Minima: 3,78
+------------------------------------
+Mes: 11
+Temperatura Media: 13,96
+Temperatura Maxima: 26,72
+Temperatura Minima: -1,11
+------------------------------------
+Mes: 12
+Temperatura Media: 8,63
+Temperatura Maxima: 23
+Temperatura Minima: -72,78
+------------------------------------

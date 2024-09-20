@@ -1,0 +1,61 @@
+Arquivo: Equador__Guayaquil.csv
+Mes: 1
+Temperatura Media: 25,24
+Temperatura Maxima: 31,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 23,92
+Temperatura Maxima: 32,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 24,48
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 21,6
+Temperatura Maxima: 32,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 24,81
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,93
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 23,59
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 19,33
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,21
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 23,52
+Temperatura Maxima: 30,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 23,8
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 24,53
+Temperatura Maxima: 31,33
+Temperatura Minima: -72,78
+------------------------------------

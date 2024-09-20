@@ -1,0 +1,61 @@
+Arquivo: Malawi__Lilongwe.csv
+Mes: 1
+Temperatura Media: -27,29
+Temperatura Maxima: 27,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -25,51
+Temperatura Maxima: 27
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -31,67
+Temperatura Maxima: 25,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -29,82
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -33,21
+Temperatura Maxima: 26,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -37,77
+Temperatura Maxima: 24,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -38,47
+Temperatura Maxima: 24,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -24,12
+Temperatura Maxima: 24,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -22,34
+Temperatura Maxima: 28,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -29,85
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -21,57
+Temperatura Maxima: 32,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -27,16
+Temperatura Maxima: 28
+Temperatura Minima: -72,78
+------------------------------------

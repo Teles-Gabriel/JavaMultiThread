@@ -1,0 +1,61 @@
+Arquivo: Zambia__Lusaka.csv
+Mes: 1
+Temperatura Media: 13,49
+Temperatura Maxima: 27,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 12,66
+Temperatura Maxima: 27,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 14,61
+Temperatura Maxima: 28,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 13,93
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 11,4
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 10,72
+Temperatura Maxima: 26,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 11,97
+Temperatura Maxima: 26,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 12,53
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 12,79
+Temperatura Maxima: 31,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 14,95
+Temperatura Maxima: 33,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 17,52
+Temperatura Maxima: 34
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 12,79
+Temperatura Maxima: 29,17
+Temperatura Minima: -72,78
+------------------------------------

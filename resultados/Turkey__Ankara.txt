@@ -1,0 +1,61 @@
+Arquivo: Turkey__Ankara.csv
+Mes: 1
+Temperatura Media: -1,11
+Temperatura Maxima: 10,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,12
+Temperatura Maxima: 13,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 4,97
+Temperatura Maxima: 17,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,6
+Temperatura Maxima: 20,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,19
+Temperatura Maxima: 23,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 18,37
+Temperatura Maxima: 26,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,53
+Temperatura Maxima: 31,06
+Temperatura Minima: 15,44
+------------------------------------
+Mes: 8
+Temperatura Media: 22,43
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,38
+Temperatura Maxima: 27,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,68
+Temperatura Maxima: 22,83
+Temperatura Minima: 0,89
+------------------------------------
+Mes: 11
+Temperatura Media: 4,88
+Temperatura Maxima: 14,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 0,46
+Temperatura Maxima: 12,44
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: US__Lincoln.csv
+Mes: 1
+Temperatura Media: -4,26
+Temperatura Maxima: 11,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,72
+Temperatura Maxima: 15,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 4,58
+Temperatura Maxima: 21,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,9
+Temperatura Maxima: 25,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 16,16
+Temperatura Maxima: 29,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,52
+Temperatura Maxima: 31,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,63
+Temperatura Maxima: 33,28
+Temperatura Minima: 15,61
+------------------------------------
+Mes: 8
+Temperatura Media: 23,93
+Temperatura Maxima: 32,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 19,29
+Temperatura Maxima: 29,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 12,02
+Temperatura Maxima: 27,11
+Temperatura Minima: -6,5
+------------------------------------
+Mes: 11
+Temperatura Media: 4,4
+Temperatura Maxima: 19,17
+Temperatura Minima: -10
+------------------------------------
+Mes: 12
+Temperatura Media: -2,48
+Temperatura Maxima: 14,11
+Temperatura Minima: -72,78
+------------------------------------

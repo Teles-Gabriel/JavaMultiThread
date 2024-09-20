@@ -1,0 +1,61 @@
+Arquivo: India__Bombay_(Mumbai).csv
+Mes: 1
+Temperatura Media: 24,29
+Temperatura Maxima: 29,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 25,72
+Temperatura Maxima: 31,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 27,64
+Temperatura Maxima: 33,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 28,92
+Temperatura Maxima: 33,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 29,61
+Temperatura Maxima: 32,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 28,69
+Temperatura Maxima: 33,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,97
+Temperatura Maxima: 31
+Temperatura Minima: 24,78
+------------------------------------
+Mes: 8
+Temperatura Media: 27,58
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,85
+Temperatura Maxima: 32,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 29,07
+Temperatura Maxima: 32,56
+Temperatura Minima: 24,33
+------------------------------------
+Mes: 11
+Temperatura Media: 27,69
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 25,22
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------

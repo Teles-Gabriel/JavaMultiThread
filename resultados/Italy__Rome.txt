@@ -1,0 +1,61 @@
+Arquivo: Italy__Rome.csv
+Mes: 1
+Temperatura Media: 8,01
+Temperatura Maxima: 17,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 8,73
+Temperatura Maxima: 16,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 10,94
+Temperatura Maxima: 17,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 13,66
+Temperatura Maxima: 21,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,36
+Temperatura Maxima: 26,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,39
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 24,45
+Temperatura Maxima: 28,33
+Temperatura Minima: 18,17
+------------------------------------
+Mes: 8
+Temperatura Media: 24,44
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,85
+Temperatura Maxima: 28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 17,34
+Temperatura Maxima: 25,72
+Temperatura Minima: 8,72
+------------------------------------
+Mes: 11
+Temperatura Media: 12,64
+Temperatura Maxima: 21,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 8,74
+Temperatura Maxima: 17,72
+Temperatura Minima: -72,78
+------------------------------------

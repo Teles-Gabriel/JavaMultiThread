@@ -1,0 +1,61 @@
+Arquivo: Mongolia__Ulan-bator.csv
+Mes: 1
+Temperatura Media: -24,41
+Temperatura Maxima: -7,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -18,87
+Temperatura Maxima: 3,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -7,77
+Temperatura Maxima: 10,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 2,62
+Temperatura Maxima: 20,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 9,71
+Temperatura Maxima: 25,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,04
+Temperatura Maxima: 30,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 19,03
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 16,23
+Temperatura Maxima: 29,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 8,92
+Temperatura Maxima: 21,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -1,02
+Temperatura Maxima: 12,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -13,1
+Temperatura Maxima: 3,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -22,14
+Temperatura Maxima: -4,5
+Temperatura Minima: -72,78
+------------------------------------

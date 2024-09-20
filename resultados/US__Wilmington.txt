@@ -1,0 +1,61 @@
+Arquivo: US__Wilmington.csv
+Mes: 1
+Temperatura Media: 0,73
+Temperatura Maxima: 17,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,72
+Temperatura Maxima: 15,5
+Temperatura Minima: -13,56
+------------------------------------
+Mes: 3
+Temperatura Media: 5,43
+Temperatura Maxima: 24,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 11,71
+Temperatura Maxima: 25,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 16,89
+Temperatura Maxima: 27,11
+Temperatura Minima: 8,22
+------------------------------------
+Mes: 6
+Temperatura Media: 21
+Temperatura Maxima: 30,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 24,36
+Temperatura Maxima: 32,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 22,98
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 19,83
+Temperatura Maxima: 28,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 13,65
+Temperatura Maxima: 24,67
+Temperatura Minima: 3,17
+------------------------------------
+Mes: 11
+Temperatura Media: 7,8
+Temperatura Maxima: 18,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 2,48
+Temperatura Maxima: 19,61
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: US__Knoxville.csv
+Mes: 1
+Temperatura Media: 3,83
+Temperatura Maxima: 20,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6
+Temperatura Maxima: 21,5
+Temperatura Minima: -15,06
+------------------------------------
+Mes: 3
+Temperatura Media: 10,31
+Temperatura Maxima: 23,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,76
+Temperatura Maxima: 25,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,73
+Temperatura Maxima: 27,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 23,84
+Temperatura Maxima: 31,5
+Temperatura Minima: 15,06
+------------------------------------
+Mes: 7
+Temperatura Media: 25,36
+Temperatura Maxima: 33,17
+Temperatura Minima: 19
+------------------------------------
+Mes: 8
+Temperatura Media: 24,97
+Temperatura Maxima: 30,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,85
+Temperatura Maxima: 28,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 15,66
+Temperatura Maxima: 27,72
+Temperatura Minima: 4
+------------------------------------
+Mes: 11
+Temperatura Media: 9,3
+Temperatura Maxima: 20,94
+Temperatura Minima: -3,44
+------------------------------------
+Mes: 12
+Temperatura Media: 5,08
+Temperatura Maxima: 19,78
+Temperatura Minima: -72,78
+------------------------------------

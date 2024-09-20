@@ -1,0 +1,61 @@
+Arquivo: US__San_Diego.csv
+Mes: 1
+Temperatura Media: 14,14
+Temperatura Maxima: 22,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 14,56
+Temperatura Maxima: 22,61
+Temperatura Minima: 8,78
+------------------------------------
+Mes: 3
+Temperatura Media: 15,43
+Temperatura Maxima: 26,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,42
+Temperatura Maxima: 27,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,64
+Temperatura Maxima: 28,39
+Temperatura Minima: 13,72
+------------------------------------
+Mes: 6
+Temperatura Media: 18,25
+Temperatura Maxima: 25,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 20,75
+Temperatura Maxima: 26,72
+Temperatura Minima: 16,61
+------------------------------------
+Mes: 8
+Temperatura Media: 21,54
+Temperatura Maxima: 28,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,24
+Temperatura Maxima: 30,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 19,47
+Temperatura Maxima: 29,89
+Temperatura Minima: 13,67
+------------------------------------
+Mes: 11
+Temperatura Media: 16,78
+Temperatura Maxima: 26,78
+Temperatura Minima: 11,17
+------------------------------------
+Mes: 12
+Temperatura Media: 13,67
+Temperatura Maxima: 19,56
+Temperatura Minima: -72,78
+------------------------------------

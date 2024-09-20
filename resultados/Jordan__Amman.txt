@@ -1,0 +1,61 @@
+Arquivo: Jordan__Amman.csv
+Mes: 1
+Temperatura Media: 7,97
+Temperatura Maxima: 15,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 9,57
+Temperatura Maxima: 20
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 12,73
+Temperatura Maxima: 24,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 16,83
+Temperatura Maxima: 28,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 21,1
+Temperatura Maxima: 32,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,46
+Temperatura Maxima: 32,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 26,84
+Temperatura Maxima: 35,22
+Temperatura Minima: 21,83
+------------------------------------
+Mes: 8
+Temperatura Media: 26,44
+Temperatura Maxima: 35,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,1
+Temperatura Maxima: 32,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 20,75
+Temperatura Maxima: 29,44
+Temperatura Minima: 11,33
+------------------------------------
+Mes: 11
+Temperatura Media: 14,42
+Temperatura Maxima: 23,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 9,62
+Temperatura Maxima: 19,33
+Temperatura Minima: -72,78
+------------------------------------

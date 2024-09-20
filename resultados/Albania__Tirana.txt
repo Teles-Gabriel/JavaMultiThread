@@ -1,0 +1,61 @@
+Arquivo: Albania__Tirana.csv
+Mes: 1
+Temperatura Media: -8,27
+Temperatura Maxima: 15,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -6,32
+Temperatura Maxima: 18,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -3,9
+Temperatura Maxima: 21,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -0,33
+Temperatura Maxima: 23,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 1,66
+Temperatura Maxima: 27
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 3,75
+Temperatura Maxima: 31,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 8,92
+Temperatura Maxima: 33,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 7,75
+Temperatura Maxima: 32
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 6,89
+Temperatura Maxima: 28,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 2,6
+Temperatura Maxima: 26,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 0,24
+Temperatura Maxima: 22,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -4,69
+Temperatura Maxima: 18,11
+Temperatura Minima: -72,78
+------------------------------------

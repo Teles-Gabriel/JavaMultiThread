@@ -1,0 +1,61 @@
+Arquivo: US__Kansas_City.csv
+Mes: 1
+Temperatura Media: -1,55
+Temperatura Maxima: 14,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 0,97
+Temperatura Maxima: 18,61
+Temperatura Minima: -21,17
+------------------------------------
+Mes: 3
+Temperatura Media: 6,79
+Temperatura Maxima: 22,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 12,78
+Temperatura Maxima: 27,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 18,29
+Temperatura Maxima: 28,61
+Temperatura Minima: 2,56
+------------------------------------
+Mes: 6
+Temperatura Media: 22,98
+Temperatura Maxima: 32,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,84
+Temperatura Maxima: 33,67
+Temperatura Minima: 16,39
+------------------------------------
+Mes: 8
+Temperatura Media: 24,79
+Temperatura Maxima: 33,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,19
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 13,73
+Temperatura Maxima: 27,89
+Temperatura Minima: -0,94
+------------------------------------
+Mes: 11
+Temperatura Media: 6,81
+Temperatura Maxima: 21,72
+Temperatura Minima: -8,94
+------------------------------------
+Mes: 12
+Temperatura Media: 0,22
+Temperatura Maxima: 18,61
+Temperatura Minima: -72,78
+------------------------------------

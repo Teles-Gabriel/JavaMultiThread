@@ -1,0 +1,61 @@
+Arquivo: Germany__Frankfurt.csv
+Mes: 1
+Temperatura Media: -31,65
+Temperatura Maxima: 12,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -29,58
+Temperatura Maxima: 13,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -26,26
+Temperatura Maxima: 16,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -25,32
+Temperatura Maxima: 22,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -31,42
+Temperatura Maxima: 25,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -21,58
+Temperatura Maxima: 29,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -19,76
+Temperatura Maxima: 28,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -15,96
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -21,88
+Temperatura Maxima: 26,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -22,83
+Temperatura Maxima: 21,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -28,88
+Temperatura Maxima: 16,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -28,6
+Temperatura Maxima: 13
+Temperatura Minima: -72,78
+------------------------------------

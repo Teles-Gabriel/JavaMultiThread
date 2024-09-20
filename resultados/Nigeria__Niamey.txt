@@ -1,0 +1,61 @@
+Arquivo: Nigeria__Niamey.csv
+Mes: 1
+Temperatura Media: 23,46
+Temperatura Maxima: 33,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 27,3
+Temperatura Maxima: 34,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 31,05
+Temperatura Maxima: 38,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 33,5
+Temperatura Maxima: 39,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 32,75
+Temperatura Maxima: 38,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 31,1
+Temperatura Maxima: 37,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,47
+Temperatura Maxima: 34,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 25,51
+Temperatura Maxima: 33,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,42
+Temperatura Maxima: 34,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 27,82
+Temperatura Maxima: 35,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 23,2
+Temperatura Maxima: 33,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 21,29
+Temperatura Maxima: 32,28
+Temperatura Minima: -72,78
+------------------------------------

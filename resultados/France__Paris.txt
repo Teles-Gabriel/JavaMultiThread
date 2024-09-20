@@ -1,0 +1,61 @@
+Arquivo: France__Paris.csv
+Mes: 1
+Temperatura Media: 4,56
+Temperatura Maxima: 14,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 5,57
+Temperatura Maxima: 14,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 8,26
+Temperatura Maxima: 16,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 11,17
+Temperatura Maxima: 21,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,2
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 17,85
+Temperatura Maxima: 29,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,63
+Temperatura Maxima: 33,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 18,49
+Temperatura Maxima: 32,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 16,28
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 12,7
+Temperatura Maxima: 21,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 7,6
+Temperatura Maxima: 17,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 4,59
+Temperatura Maxima: 14,44
+Temperatura Minima: -72,78
+------------------------------------

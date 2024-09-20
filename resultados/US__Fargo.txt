@@ -1,0 +1,61 @@
+Arquivo: US__Fargo.csv
+Mes: 1
+Temperatura Media: -12,2
+Temperatura Maxima: 4,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -10,05
+Temperatura Maxima: 9,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -2,66
+Temperatura Maxima: 20,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 5,57
+Temperatura Maxima: 21,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,67
+Temperatura Maxima: 28,83
+Temperatura Minima: 0,5
+------------------------------------
+Mes: 6
+Temperatura Media: 18,99
+Temperatura Maxima: 33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,06
+Temperatura Maxima: 30,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 20,51
+Temperatura Maxima: 30,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,72
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 7,84
+Temperatura Maxima: 24,33
+Temperatura Minima: -6,56
+------------------------------------
+Mes: 11
+Temperatura Media: -0,99
+Temperatura Maxima: 14,94
+Temperatura Minima: -24,17
+------------------------------------
+Mes: 12
+Temperatura Media: -9,05
+Temperatura Maxima: 8,78
+Temperatura Minima: -72,78
+------------------------------------

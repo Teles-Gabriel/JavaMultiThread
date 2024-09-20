@@ -1,0 +1,61 @@
+Arquivo: US__Oklahoma_City.csv
+Mes: 1
+Temperatura Media: 3,66
+Temperatura Maxima: 18,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6
+Temperatura Maxima: 20,5
+Temperatura Minima: -13,78
+------------------------------------
+Mes: 3
+Temperatura Media: 10,83
+Temperatura Maxima: 24,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,98
+Temperatura Maxima: 25,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 20,38
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,51
+Temperatura Maxima: 33,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,99
+Temperatura Maxima: 35,78
+Temperatura Minima: 18,11
+------------------------------------
+Mes: 8
+Temperatura Media: 27,33
+Temperatura Maxima: 36,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 23,01
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 16,53
+Temperatura Maxima: 26,94
+Temperatura Minima: 0,17
+------------------------------------
+Mes: 11
+Temperatura Media: 10,12
+Temperatura Maxima: 23,39
+Temperatura Minima: -5,06
+------------------------------------
+Mes: 12
+Temperatura Media: 4,17
+Temperatura Maxima: 20,22
+Temperatura Minima: -72,78
+------------------------------------

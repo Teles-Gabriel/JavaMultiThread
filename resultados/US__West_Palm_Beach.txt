@@ -1,0 +1,61 @@
+Arquivo: US__West_Palm_Beach.csv
+Mes: 1
+Temperatura Media: 18,92
+Temperatura Maxima: 26,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 20,33
+Temperatura Maxima: 26,67
+Temperatura Minima: 6,89
+------------------------------------
+Mes: 3
+Temperatura Media: 21,79
+Temperatura Maxima: 27,89
+Temperatura Minima: 11
+------------------------------------
+Mes: 4
+Temperatura Media: 23,79
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 25,83
+Temperatura Maxima: 29,72
+Temperatura Minima: 18,11
+------------------------------------
+Mes: 6
+Temperatura Media: 26,77
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,15
+Temperatura Maxima: 31,44
+Temperatura Minima: 23,28
+------------------------------------
+Mes: 8
+Temperatura Media: 28,12
+Temperatura Maxima: 31,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 27,19
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 25,95
+Temperatura Maxima: 29,44
+Temperatura Minima: 14,89
+------------------------------------
+Mes: 11
+Temperatura Media: 21,85
+Temperatura Maxima: 28,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 19,82
+Temperatura Maxima: 26,61
+Temperatura Minima: -72,78
+------------------------------------

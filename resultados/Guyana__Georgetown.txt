@@ -1,0 +1,61 @@
+Arquivo: Guyana__Georgetown.csv
+Mes: 1
+Temperatura Media: -26,32
+Temperatura Maxima: 29,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -27,46
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -25,83
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -26,87
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -29,91
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -26,59
+Temperatura Maxima: 30,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -30,81
+Temperatura Maxima: 30,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -29,12
+Temperatura Maxima: 30,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -36,81
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -38,73
+Temperatura Maxima: 31,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -33,74
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -28,38
+Temperatura Maxima: 30,61
+Temperatura Minima: -72,78
+------------------------------------

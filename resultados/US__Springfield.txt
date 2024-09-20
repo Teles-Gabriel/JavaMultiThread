@@ -1,0 +1,61 @@
+Arquivo: US__Springfield.csv
+Mes: 1
+Temperatura Media: -0,78
+Temperatura Maxima: 17,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,65
+Temperatura Maxima: 20,28
+Temperatura Minima: -24,33
+------------------------------------
+Mes: 3
+Temperatura Media: 6,93
+Temperatura Maxima: 23,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 12,52
+Temperatura Maxima: 25,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 17,54
+Temperatura Maxima: 28,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,65
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,11
+Temperatura Maxima: 32,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 24,17
+Temperatura Maxima: 33,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 20,06
+Temperatura Maxima: 31,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 13,73
+Temperatura Maxima: 26,61
+Temperatura Minima: 0,39
+------------------------------------
+Mes: 11
+Temperatura Media: 7,06
+Temperatura Maxima: 21,78
+Temperatura Minima: -10,39
+------------------------------------
+Mes: 12
+Temperatura Media: 1,06
+Temperatura Maxima: 18,17
+Temperatura Minima: -72,78
+------------------------------------

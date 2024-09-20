@@ -1,0 +1,61 @@
+Arquivo: US__St_Louis.csv
+Mes: 1
+Temperatura Media: 0,18
+Temperatura Maxima: 18,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 2,61
+Temperatura Maxima: 19,44
+Temperatura Minima: -20,67
+------------------------------------
+Mes: 3
+Temperatura Media: 8,05
+Temperatura Maxima: 24,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,28
+Temperatura Maxima: 27,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,84
+Temperatura Maxima: 30
+Temperatura Minima: 6,72
+------------------------------------
+Mes: 6
+Temperatura Media: 23,94
+Temperatura Maxima: 33,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 26,92
+Temperatura Maxima: 35,72
+Temperatura Minima: 17,67
+------------------------------------
+Mes: 8
+Temperatura Media: 25,8
+Temperatura Maxima: 33,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,64
+Temperatura Maxima: 33,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 15,18
+Temperatura Maxima: 28,78
+Temperatura Minima: 1,61
+------------------------------------
+Mes: 11
+Temperatura Media: 8,21
+Temperatura Maxima: 24,17
+Temperatura Minima: -8,44
+------------------------------------
+Mes: 12
+Temperatura Media: 2,16
+Temperatura Maxima: 20,17
+Temperatura Minima: -72,78
+------------------------------------

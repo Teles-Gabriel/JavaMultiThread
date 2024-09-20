@@ -1,0 +1,61 @@
+Arquivo: Japan__Osaka.csv
+Mes: 1
+Temperatura Media: 5,2
+Temperatura Maxima: 14,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6,03
+Temperatura Maxima: 17,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 9,62
+Temperatura Maxima: 18,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 15,01
+Temperatura Maxima: 23,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,82
+Temperatura Maxima: 27,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 23,52
+Temperatura Maxima: 31,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,01
+Temperatura Maxima: 33,67
+Temperatura Minima: 20,56
+------------------------------------
+Mes: 8
+Temperatura Media: 29,23
+Temperatura Maxima: 33,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,91
+Temperatura Maxima: 32,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 19,36
+Temperatura Maxima: 28,61
+Temperatura Minima: 9,28
+------------------------------------
+Mes: 11
+Temperatura Media: 12,77
+Temperatura Maxima: 22,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 7,3
+Temperatura Maxima: 19,17
+Temperatura Minima: -72,78
+------------------------------------

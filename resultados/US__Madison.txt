@@ -1,0 +1,61 @@
+Arquivo: US__Madison.csv
+Mes: 1
+Temperatura Media: -6,48
+Temperatura Maxima: 7,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -4,57
+Temperatura Maxima: 12,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 1,38
+Temperatura Maxima: 21,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,09
+Temperatura Maxima: 24,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,57
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 19,67
+Temperatura Maxima: 30,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,61
+Temperatura Maxima: 32,56
+Temperatura Minima: 13,89
+------------------------------------
+Mes: 8
+Temperatura Media: 21,13
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 16,83
+Temperatura Maxima: 29,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 10,22
+Temperatura Maxima: 24,78
+Temperatura Minima: -1,94
+------------------------------------
+Mes: 11
+Temperatura Media: 2,96
+Temperatura Maxima: 17,67
+Temperatura Minima: -13,06
+------------------------------------
+Mes: 12
+Temperatura Media: -3,77
+Temperatura Maxima: 14,72
+Temperatura Minima: -72,78
+------------------------------------

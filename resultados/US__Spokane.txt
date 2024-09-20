@@ -1,0 +1,61 @@
+Arquivo: US__Spokane.csv
+Mes: 1
+Temperatura Media: -1,5
+Temperatura Maxima: 8,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 0,01
+Temperatura Maxima: 10,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 3,93
+Temperatura Maxima: 13,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 7,95
+Temperatura Maxima: 20,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,16
+Temperatura Maxima: 26,83
+Temperatura Minima: 1,83
+------------------------------------
+Mes: 6
+Temperatura Media: 16,43
+Temperatura Maxima: 31,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,12
+Temperatura Maxima: 34
+Temperatura Minima: 10,44
+------------------------------------
+Mes: 8
+Temperatura Media: 21,11
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 15,63
+Temperatura Maxima: 25,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 8,44
+Temperatura Maxima: 19,83
+Temperatura Minima: -5,94
+------------------------------------
+Mes: 11
+Temperatura Media: 2,4
+Temperatura Maxima: 15
+Temperatura Minima: -18,28
+------------------------------------
+Mes: 12
+Temperatura Media: -2,05
+Temperatura Maxima: 9,94
+Temperatura Minima: -72,78
+------------------------------------

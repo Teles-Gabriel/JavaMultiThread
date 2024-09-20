@@ -1,0 +1,61 @@
+Arquivo: US__South_Bend.csv
+Mes: 1
+Temperatura Media: -3,75
+Temperatura Maxima: 15,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -2,2
+Temperatura Maxima: 16,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 3,01
+Temperatura Maxima: 23,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,32
+Temperatura Maxima: 24,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,5
+Temperatura Maxima: 29,06
+Temperatura Minima: 3,61
+------------------------------------
+Mes: 6
+Temperatura Media: 20,37
+Temperatura Maxima: 29,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,86
+Temperatura Maxima: 31,89
+Temperatura Minima: 13,94
+------------------------------------
+Mes: 8
+Temperatura Media: 21,66
+Temperatura Maxima: 29,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 17,88
+Temperatura Maxima: 29,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,54
+Temperatura Maxima: 25,67
+Temperatura Minima: 1,5
+------------------------------------
+Mes: 11
+Temperatura Media: 4,78
+Temperatura Maxima: 18,94
+Temperatura Minima: -10,22
+------------------------------------
+Mes: 12
+Temperatura Media: -1,29
+Temperatura Maxima: 17,06
+Temperatura Minima: -72,78
+------------------------------------

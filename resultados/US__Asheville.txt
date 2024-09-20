@@ -1,0 +1,61 @@
+Arquivo: US__Asheville.csv
+Mes: 1
+Temperatura Media: 2,91
+Temperatura Maxima: 16,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 4,83
+Temperatura Maxima: 19,33
+Temperatura Minima: -12,67
+------------------------------------
+Mes: 3
+Temperatura Media: 8,54
+Temperatura Maxima: 20,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 13,38
+Temperatura Maxima: 22,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 15,98
+Temperatura Maxima: 25,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 20,29
+Temperatura Maxima: 27,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,87
+Temperatura Maxima: 27,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 22,05
+Temperatura Maxima: 29,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 19,14
+Temperatura Maxima: 26,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 13,6
+Temperatura Maxima: 24,44
+Temperatura Minima: 2,72
+------------------------------------
+Mes: 11
+Temperatura Media: 7,98
+Temperatura Maxima: 19,78
+Temperatura Minima: -4,11
+------------------------------------
+Mes: 12
+Temperatura Media: 4,14
+Temperatura Maxima: 18,5
+Temperatura Minima: -72,78
+------------------------------------

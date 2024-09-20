@@ -1,0 +1,61 @@
+Arquivo: Sierra_Leone__Freetown.csv
+Mes: 1
+Temperatura Media: -22,99
+Temperatura Maxima: 31,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -29,94
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -23,01
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -16,52
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -19,69
+Temperatura Maxima: 31,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -23,05
+Temperatura Maxima: 30,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -23,43
+Temperatura Maxima: 29,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -22,75
+Temperatura Maxima: 29,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -23,97
+Temperatura Maxima: 29,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -25,42
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -26,66
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -21,88
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------

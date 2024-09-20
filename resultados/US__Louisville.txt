@@ -1,0 +1,61 @@
+Arquivo: US__Louisville.csv
+Mes: 1
+Temperatura Media: 1,63
+Temperatura Maxima: 18,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 3,86
+Temperatura Maxima: 22,11
+Temperatura Minima: -16,83
+------------------------------------
+Mes: 3
+Temperatura Media: 8,79
+Temperatura Maxima: 25,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,52
+Temperatura Maxima: 25,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,97
+Temperatura Maxima: 29,67
+Temperatura Minima: 8,39
+------------------------------------
+Mes: 6
+Temperatura Media: 23,88
+Temperatura Maxima: 33,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 26,17
+Temperatura Maxima: 34
+Temperatura Minima: 18
+------------------------------------
+Mes: 8
+Temperatura Media: 25,66
+Temperatura Maxima: 33,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,85
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 15,46
+Temperatura Maxima: 29,28
+Temperatura Minima: 4,11
+------------------------------------
+Mes: 11
+Temperatura Media: 8,82
+Temperatura Maxima: 22,39
+Temperatura Minima: -6,44
+------------------------------------
+Mes: 12
+Temperatura Media: 3,49
+Temperatura Maxima: 20,17
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Benin__Cotonou.csv
+Mes: 1
+Temperatura Media: 26,92
+Temperatura Maxima: 30,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 27,77
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 27,87
+Temperatura Maxima: 31,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 27,25
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 26
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 25,72
+Temperatura Maxima: 29,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 24,73
+Temperatura Maxima: 28,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 18,4
+Temperatura Maxima: 27,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 22,87
+Temperatura Maxima: 27,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 22,83
+Temperatura Maxima: 29,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 21,37
+Temperatura Maxima: 30,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 22,38
+Temperatura Maxima: 29,94
+Temperatura Minima: -72,78
+------------------------------------

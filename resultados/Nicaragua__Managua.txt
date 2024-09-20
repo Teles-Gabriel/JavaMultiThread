@@ -1,0 +1,61 @@
+Arquivo: Nicaragua__Managua.csv
+Mes: 1
+Temperatura Media: 21,88
+Temperatura Maxima: 30,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 21,24
+Temperatura Maxima: 32,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 19,89
+Temperatura Maxima: 32,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 21,56
+Temperatura Maxima: 34,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 20,79
+Temperatura Maxima: 34,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 22,07
+Temperatura Maxima: 33,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,63
+Temperatura Maxima: 31,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 22,95
+Temperatura Maxima: 31,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 22,44
+Temperatura Maxima: 30,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 23,89
+Temperatura Maxima: 30,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 23,06
+Temperatura Maxima: 31,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 23,36
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------

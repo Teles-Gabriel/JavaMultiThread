@@ -1,0 +1,61 @@
+Arquivo: Canada__Montreal.csv
+Mes: 1
+Temperatura Media: -8,87
+Temperatura Maxima: 8,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -6,94
+Temperatura Maxima: 5,72
+Temperatura Minima: -24,67
+------------------------------------
+Mes: 3
+Temperatura Media: -1,33
+Temperatura Maxima: 11,94
+Temperatura Minima: -19,33
+------------------------------------
+Mes: 4
+Temperatura Media: 6,51
+Temperatura Maxima: 20,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,91
+Temperatura Maxima: 27
+Temperatura Minima: 3,83
+------------------------------------
+Mes: 6
+Temperatura Media: 18,67
+Temperatura Maxima: 27,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 21,55
+Temperatura Maxima: 29,22
+Temperatura Minima: 14,17
+------------------------------------
+Mes: 8
+Temperatura Media: 20,63
+Temperatura Maxima: 29,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 16,36
+Temperatura Maxima: 26,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 9,15
+Temperatura Maxima: 22,06
+Temperatura Minima: -0,83
+------------------------------------
+Mes: 11
+Temperatura Media: 2,54
+Temperatura Maxima: 15,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -4,99
+Temperatura Maxima: 12,28
+Temperatura Minima: -72,78
+------------------------------------

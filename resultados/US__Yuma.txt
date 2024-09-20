@@ -1,0 +1,61 @@
+Arquivo: US__Yuma.csv
+Mes: 1
+Temperatura Media: 11,15
+Temperatura Maxima: 21,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 11,33
+Temperatura Maxima: 23,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 14,44
+Temperatura Maxima: 31,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 18,81
+Temperatura Maxima: 31,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,06
+Temperatura Maxima: 35,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 23,41
+Temperatura Maxima: 37,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,73
+Temperatura Maxima: 41,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 26,55
+Temperatura Maxima: 39,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,77
+Temperatura Maxima: 37,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 17,95
+Temperatura Maxima: 32,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 13,29
+Temperatura Maxima: 26,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 6,85
+Temperatura Maxima: 20,28
+Temperatura Minima: -72,78
+------------------------------------

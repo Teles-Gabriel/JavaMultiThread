@@ -1,0 +1,61 @@
+Arquivo: Germany__Bonn.csv
+Mes: 1
+Temperatura Media: -41,12
+Temperatura Maxima: 13,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -44,81
+Temperatura Maxima: 11,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -48,7
+Temperatura Maxima: 16,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -47,23
+Temperatura Maxima: 19,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -41,15
+Temperatura Maxima: 25,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -43,59
+Temperatura Maxima: 29,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -39,99
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -40,65
+Temperatura Maxima: 29,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -40,76
+Temperatura Maxima: 23,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -40,74
+Temperatura Maxima: 19,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -44,74
+Temperatura Maxima: 11,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -52,46
+Temperatura Maxima: 13,78
+Temperatura Minima: -72,78
+------------------------------------

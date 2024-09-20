@@ -1,0 +1,61 @@
+Arquivo: Burundi__Bujumbura.csv
+Mes: 1
+Temperatura Media: -51,53
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -52,54
+Temperatura Maxima: 31,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: -49,38
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: -55,21
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: -52,62
+Temperatura Maxima: 29,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: -47,08
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: -52,94
+Temperatura Maxima: 28,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: -55,44
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: -58,2
+Temperatura Maxima: 31,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: -61,38
+Temperatura Maxima: 30
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: -57,47
+Temperatura Maxima: 28,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -56,36
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------

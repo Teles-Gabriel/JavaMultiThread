@@ -1,0 +1,61 @@
+Arquivo: Croatia__Zagreb.csv
+Mes: 1
+Temperatura Media: -4,67
+Temperatura Maxima: 13,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 0,39
+Temperatura Maxima: 15,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 4,15
+Temperatura Maxima: 18,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 9,33
+Temperatura Maxima: 22,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 13,42
+Temperatura Maxima: 26,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 16,94
+Temperatura Maxima: 29,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,76
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 17,91
+Temperatura Maxima: 30,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 12,95
+Temperatura Maxima: 26,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 8,91
+Temperatura Maxima: 21,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 3,54
+Temperatura Maxima: 20,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -1,62
+Temperatura Maxima: 15,28
+Temperatura Minima: -72,78
+------------------------------------

@@ -1,0 +1,61 @@
+Arquivo: Congo__Brazzaville.csv
+Mes: 1
+Temperatura Media: 19,5
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 23,24
+Temperatura Maxima: 31,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 25,83
+Temperatura Maxima: 30,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 24,3
+Temperatura Maxima: 30,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 24,09
+Temperatura Maxima: 31,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 21,3
+Temperatura Maxima: 28,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,09
+Temperatura Maxima: 28,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 16,82
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,59
+Temperatura Maxima: 30,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 20,43
+Temperatura Maxima: 29,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 17,73
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 15,72
+Temperatura Maxima: 29
+Temperatura Minima: -72,78
+------------------------------------

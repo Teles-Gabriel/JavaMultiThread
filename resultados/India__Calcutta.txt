@@ -1,0 +1,61 @@
+Arquivo: India__Calcutta.csv
+Mes: 1
+Temperatura Media: 18,32
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 22,57
+Temperatura Maxima: 30,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 25,75
+Temperatura Maxima: 33,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 29,61
+Temperatura Maxima: 34,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 29,92
+Temperatura Maxima: 35,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 29,28
+Temperatura Maxima: 36
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,16
+Temperatura Maxima: 34,06
+Temperatura Minima: 25,61
+------------------------------------
+Mes: 8
+Temperatura Media: 28,92
+Temperatura Maxima: 32,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 28,79
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 27,58
+Temperatura Maxima: 31,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 23,7
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 19,05
+Temperatura Maxima: 26,39
+Temperatura Minima: -72,78
+------------------------------------

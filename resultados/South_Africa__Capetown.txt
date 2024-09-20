@@ -1,0 +1,61 @@
+Arquivo: South_Africa__Capetown.csv
+Mes: 1
+Temperatura Media: 21,02
+Temperatura Maxima: 27,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 21,26
+Temperatura Maxima: 27,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 19,7
+Temperatura Maxima: 28,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 17,02
+Temperatura Maxima: 26,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,46
+Temperatura Maxima: 23,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 12,55
+Temperatura Maxima: 20,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 12,48
+Temperatura Maxima: 20,94
+Temperatura Minima: 7,22
+------------------------------------
+Mes: 8
+Temperatura Media: 12,71
+Temperatura Maxima: 21
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,05
+Temperatura Maxima: 23,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 16,69
+Temperatura Maxima: 28
+Temperatura Minima: 9,83
+------------------------------------
+Mes: 11
+Temperatura Media: 17,86
+Temperatura Maxima: 26,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 19,62
+Temperatura Maxima: 28,17
+Temperatura Minima: -72,78
+------------------------------------

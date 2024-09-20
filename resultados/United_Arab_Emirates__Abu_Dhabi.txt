@@ -1,0 +1,61 @@
+Arquivo: United_Arab_Emirates__Abu_Dhabi.csv
+Mes: 1
+Temperatura Media: 18,91
+Temperatura Maxima: 25,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 20,69
+Temperatura Maxima: 30,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 23,53
+Temperatura Maxima: 34,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 27,17
+Temperatura Maxima: 35
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 31,38
+Temperatura Maxima: 37,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 33,35
+Temperatura Maxima: 39,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 35,8
+Temperatura Maxima: 41,83
+Temperatura Minima: 27,44
+------------------------------------
+Mes: 8
+Temperatura Media: 35,82
+Temperatura Maxima: 41,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 33,21
+Temperatura Maxima: 39,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 29,91
+Temperatura Maxima: 33,61
+Temperatura Minima: 24,33
+------------------------------------
+Mes: 11
+Temperatura Media: 24,79
+Temperatura Maxima: 30,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 20,42
+Temperatura Maxima: 27,22
+Temperatura Minima: -72,78
+------------------------------------

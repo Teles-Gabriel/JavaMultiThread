@@ -1,0 +1,61 @@
+Arquivo: Hong_Kong__Hong_Kong.csv
+Mes: 1
+Temperatura Media: 16,48
+Temperatura Maxima: 23,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 17,54
+Temperatura Maxima: 25,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 20,27
+Temperatura Maxima: 27
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 23,67
+Temperatura Maxima: 29,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 26,59
+Temperatura Maxima: 32,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 28,66
+Temperatura Maxima: 32,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 29,8
+Temperatura Maxima: 33,56
+Temperatura Minima: 25,28
+------------------------------------
+Mes: 8
+Temperatura Media: 29,32
+Temperatura Maxima: 33,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 28,55
+Temperatura Maxima: 32,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 26,61
+Temperatura Maxima: 31,5
+Temperatura Minima: 19,39
+------------------------------------
+Mes: 11
+Temperatura Media: 22,3
+Temperatura Maxima: 28,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 17,63
+Temperatura Maxima: 25,56
+Temperatura Minima: -72,78
+------------------------------------

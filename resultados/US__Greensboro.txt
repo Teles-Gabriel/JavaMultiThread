@@ -1,0 +1,61 @@
+Arquivo: US__Greensboro.csv
+Mes: 1
+Temperatura Media: 4,12
+Temperatura Maxima: 18,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 6
+Temperatura Maxima: 19,94
+Temperatura Minima: -11,78
+------------------------------------
+Mes: 3
+Temperatura Media: 10,03
+Temperatura Maxima: 23,78
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 14,71
+Temperatura Maxima: 25,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 19,37
+Temperatura Maxima: 27,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 23,28
+Temperatura Maxima: 30,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,45
+Temperatura Maxima: 31,11
+Temperatura Minima: 15,61
+------------------------------------
+Mes: 8
+Temperatura Media: 24,55
+Temperatura Maxima: 32,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,29
+Temperatura Maxima: 28,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 15,6
+Temperatura Maxima: 27,61
+Temperatura Minima: 4,67
+------------------------------------
+Mes: 11
+Temperatura Media: 9,72
+Temperatura Maxima: 21,56
+Temperatura Minima: -2,33
+------------------------------------
+Mes: 12
+Temperatura Media: 5,47
+Temperatura Maxima: 20,11
+Temperatura Minima: -72,78
+------------------------------------

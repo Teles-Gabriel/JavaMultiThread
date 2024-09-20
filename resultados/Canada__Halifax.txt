@@ -1,0 +1,61 @@
+Arquivo: Canada__Halifax.csv
+Mes: 1
+Temperatura Media: -5,15
+Temperatura Maxima: 11,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -4,5
+Temperatura Maxima: 9,94
+Temperatura Minima: -20,83
+------------------------------------
+Mes: 3
+Temperatura Media: -0,87
+Temperatura Maxima: 20
+Temperatura Minima: -15,89
+------------------------------------
+Mes: 4
+Temperatura Media: 4,08
+Temperatura Maxima: 14,22
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 9,58
+Temperatura Maxima: 20,94
+Temperatura Minima: 0,17
+------------------------------------
+Mes: 6
+Temperatura Media: 14
+Temperatura Maxima: 25,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 18,27
+Temperatura Maxima: 26,33
+Temperatura Minima: 3,56
+------------------------------------
+Mes: 8
+Temperatura Media: 18,21
+Temperatura Maxima: 26,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 14,96
+Temperatura Maxima: 26,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 9,22
+Temperatura Maxima: 19,33
+Temperatura Minima: 1,5
+------------------------------------
+Mes: 11
+Temperatura Media: 3,69
+Temperatura Maxima: 15
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: -1,9
+Temperatura Maxima: 12
+Temperatura Minima: -72,78
+------------------------------------

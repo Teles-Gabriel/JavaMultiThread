@@ -1,0 +1,61 @@
+Arquivo: US__Erie.csv
+Mes: 1
+Temperatura Media: -2,3
+Temperatura Maxima: 16,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: -1,79
+Temperatura Maxima: 18,17
+Temperatura Minima: -21,06
+------------------------------------
+Mes: 3
+Temperatura Media: 2,1
+Temperatura Maxima: 22,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 8,02
+Temperatura Maxima: 24,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 14,63
+Temperatura Maxima: 26,67
+Temperatura Minima: 2,61
+------------------------------------
+Mes: 6
+Temperatura Media: 19,5
+Temperatura Maxima: 29,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 22,44
+Temperatura Maxima: 30,22
+Temperatura Minima: 14,72
+------------------------------------
+Mes: 8
+Temperatura Media: 21,73
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 18,15
+Temperatura Maxima: 28,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 12,09
+Temperatura Maxima: 25,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 6,03
+Temperatura Maxima: 19,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 0,51
+Temperatura Maxima: 17,33
+Temperatura Minima: -72,78
+------------------------------------

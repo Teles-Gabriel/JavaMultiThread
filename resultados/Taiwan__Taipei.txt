@@ -1,0 +1,61 @@
+Arquivo: Taiwan__Taipei.csv
+Mes: 1
+Temperatura Media: 15,63
+Temperatura Maxima: 23,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 16,02
+Temperatura Maxima: 25,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 16,7
+Temperatura Maxima: 27,11
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 22,04
+Temperatura Maxima: 29,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 21,59
+Temperatura Maxima: 31,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 23,13
+Temperatura Maxima: 33,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,15
+Temperatura Maxima: 34,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 25,22
+Temperatura Maxima: 33,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 21,61
+Temperatura Maxima: 32,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 21,78
+Temperatura Maxima: 31,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 20,54
+Temperatura Maxima: 28,94
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 16,69
+Temperatura Maxima: 25,39
+Temperatura Minima: -72,78
+------------------------------------

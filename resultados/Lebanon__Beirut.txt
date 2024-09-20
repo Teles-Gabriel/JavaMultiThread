@@ -1,0 +1,61 @@
+Arquivo: Lebanon__Beirut.csv
+Mes: 1
+Temperatura Media: 14,03
+Temperatura Maxima: 21,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 14,6
+Temperatura Maxima: 25,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 16,51
+Temperatura Maxima: 27,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 18,82
+Temperatura Maxima: 30,61
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 21,74
+Temperatura Maxima: 32
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 24,85
+Temperatura Maxima: 32,56
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 25,96
+Temperatura Maxima: 32,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 8
+Temperatura Media: 28,1
+Temperatura Maxima: 32,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 25,91
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 24,11
+Temperatura Maxima: 31,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 11
+Temperatura Media: 19,58
+Temperatura Maxima: 28,28
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 15,49
+Temperatura Maxima: 22,44
+Temperatura Minima: -72,78
+------------------------------------

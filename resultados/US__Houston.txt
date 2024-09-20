@@ -1,0 +1,61 @@
+Arquivo: US__Houston.csv
+Mes: 1
+Temperatura Media: 11,79
+Temperatura Maxima: 23,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 14,02
+Temperatura Maxima: 24,39
+Temperatura Minima: -2,5
+------------------------------------
+Mes: 3
+Temperatura Media: 17,38
+Temperatura Maxima: 25,94
+Temperatura Minima: 0,83
+------------------------------------
+Mes: 4
+Temperatura Media: 20
+Temperatura Maxima: 29,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 24,16
+Temperatura Maxima: 31,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 27,01
+Temperatura Maxima: 33,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 28,66
+Temperatura Maxima: 33,89
+Temperatura Minima: 24,28
+------------------------------------
+Mes: 8
+Temperatura Media: 28,51
+Temperatura Maxima: 33,89
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 26,07
+Temperatura Maxima: 32,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 21,61
+Temperatura Maxima: 29,5
+Temperatura Minima: 8,89
+------------------------------------
+Mes: 11
+Temperatura Media: 16,42
+Temperatura Maxima: 26,67
+Temperatura Minima: 3
+------------------------------------
+Mes: 12
+Temperatura Media: 12,26
+Temperatura Maxima: 24,78
+Temperatura Minima: -72,78
+------------------------------------

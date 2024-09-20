@@ -1,0 +1,61 @@
+Arquivo: US__Pueblo.csv
+Mes: 1
+Temperatura Media: -0,54
+Temperatura Maxima: 14,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 1,12
+Temperatura Maxima: 17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 3
+Temperatura Media: 6,3
+Temperatura Maxima: 18,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 10,58
+Temperatura Maxima: 22,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 16,05
+Temperatura Maxima: 27,28
+Temperatura Minima: 1,28
+------------------------------------
+Mes: 6
+Temperatura Media: 21,59
+Temperatura Maxima: 31,67
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 24,95
+Temperatura Maxima: 34,83
+Temperatura Minima: 15,11
+------------------------------------
+Mes: 8
+Temperatura Media: 23,23
+Temperatura Maxima: 30,17
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 18,93
+Temperatura Maxima: 27,39
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 11,38
+Temperatura Maxima: 24,5
+Temperatura Minima: -11,67
+------------------------------------
+Mes: 11
+Temperatura Media: 4,47
+Temperatura Maxima: 16,11
+Temperatura Minima: -15,06
+------------------------------------
+Mes: 12
+Temperatura Media: -1,16
+Temperatura Maxima: 17,5
+Temperatura Minima: -72,78
+------------------------------------

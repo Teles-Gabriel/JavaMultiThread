@@ -1,0 +1,61 @@
+Arquivo: US__Savannah.csv
+Mes: 1
+Temperatura Media: 9,85
+Temperatura Maxima: 23
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 2
+Temperatura Media: 11,87
+Temperatura Maxima: 24,22
+Temperatura Minima: -2,33
+------------------------------------
+Mes: 3
+Temperatura Media: 14,84
+Temperatura Maxima: 25,06
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 4
+Temperatura Media: 18,29
+Temperatura Maxima: 27,5
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 5
+Temperatura Media: 22,81
+Temperatura Maxima: 31
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 6
+Temperatura Media: 25,41
+Temperatura Maxima: 31,33
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 7
+Temperatura Media: 27,33
+Temperatura Maxima: 31,56
+Temperatura Minima: 20,94
+------------------------------------
+Mes: 8
+Temperatura Media: 26,8
+Temperatura Maxima: 31,72
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 9
+Temperatura Media: 24,59
+Temperatura Maxima: 29,44
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 10
+Temperatura Media: 19,91
+Temperatura Maxima: 28,78
+Temperatura Minima: 8,67
+------------------------------------
+Mes: 11
+Temperatura Media: 13,59
+Temperatura Maxima: 24,83
+Temperatura Minima: -72,78
+------------------------------------
+Mes: 12
+Temperatura Media: 10,51
+Temperatura Maxima: 23,11
+Temperatura Minima: -72,78
+------------------------------------
